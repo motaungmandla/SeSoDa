@@ -1,4 +1,4 @@
-# motaung247aung.guthub.io
+# zmmandla.guthub.io
 I am an undergraduate student of Mathematics and Computer Science at the National University of Lesotho(NUL). I am to complete my degree in 2026. <h1 align="center">Hi 👋, I'm Mandla</h1>
 <h3 align="center">A student of computer science at the National University of Lesotho</h3>
 
