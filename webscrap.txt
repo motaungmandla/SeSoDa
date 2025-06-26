@@ -1,0 +1,452 @@
+{"prompt": "Seilatsatsi", "completion": "Morwetsana/mosadi e motle haholo kapa ya botle ba tshomong.", "type": "descriptive_term", "category": "compliment", "gender": "female", "context": "Used to describe exceptional beauty"}
+{"prompt": "Sehou", "completion": "Pina e lerata ya banna ba binang mmoho.", "type": "musical_term", "category": "traditional_song", "performers": "men", "style": "boisterous"}
+{"prompt": "Mokorotlo", "completion": "Pina ya banna e binelwang fatshe, ho tiisitswe dikodu eka ho a korotlwa.", "type": "musical_term", "category": "ceremonial_song", "posture": "sung while kneeling", "cultural_significance": "important tradition"}
+{"prompt": "Dioka", "completion": "Dikgomo/dipholo tse tiileng, tse shahlileng.", "type": "descriptive_term", "category": "livestock", "characteristics": ["strong", "muscular"], "appearance": "well-built"}
+{"prompt": "Bopa", "completion": "Ho shata kapa ho hana ka manganga o bile o tiisitse sefahleho.", "type": "verb", "category": "facial_expression", "social_context": "conflict situations", "nonverbal_meaning": "defiant rejection"}
+{"prompt": "Kwebana", "completion": "Ho lwantshana ha dipoho/dikgomo ha di hlabana ka manaka.", "type": "descriptive_term", "category": "animal_behavior", "extended_meaning": "metaphor for human conflicts", "proverbial_use": "describing stubborn disputes"}
+{"prompt": "Phenama", "completion": "Ho tlala haholo/ho tlala tswete!", "type": "verb", "category": "state_of_being", "intensity": "extreme fullness", "contexts": ["feasting", "agricultural abundance"]}
+{"prompt": "Marole", "completion": "Manamane a nang le selemo.", "type": "descriptive_term", "category": "livestock_description", "characteristics": ["young animals", "with fat deposits"], "cultural_value": "sign of wealth"}
+{"prompt": "Manaila", "completion": "Mmala o nang le bosweu maotong a phoofolo haholoholo dipere.", "type": "descriptive_term", "category": "animal_markings", "specificity": "distinctive white leg markings", "breeding_value": "highly prized trait"}
+{"prompt": "Mehoke", "completion": "Poho ya pere e tiileng.", "type": "compound_term", "category": "livestock_metaphor", "components": ["poho (bull)", "pere (horse)"], "symbolic_meaning": "hybrid vigor/exceptional strength"}
+{"prompt": "Lekodilo", "completion": "Ke thothothokiso e kguishwane e ngolwang hangata ho tswa lehlakoreng la mmui. E sebelisoa ho ultwahatswa maikutlo, mohopolo kapa ho hlalosa pono e itseng. Hangata e ka re pinanyana, e le hore e fane ka tlhaloso e potlana empa e totobetseng ka sepheo sa yona.", "type": "poetry_form", "category": "short_poetry", "academic_source": "Sesotho Poetic Traditions, 1987", "poetic_devices": ["imagery", "brevity"], "cultural_significance": "medium"}
+
+{"prompt": "Sonete", "completion": "Ke thothokiso e nang le mela e leshome le metso e mene (14) e nang le raeme e itseng. Mela e qalang e 8 e bua ka taba e itseng, mme mela e 6 ea ho qetella e hanyetsana le se buuoang ke mela e 8 e ka hodimo. Sonete e hloka ho latela sebopeho sena hore e be sonete e nepahetseng.", "type": "poetry_form", "category": "structured_poetry", "academic_source": "Ntate Mphanya, 2003", "poetic_devices": ["rhyme", "contrast"], "cultural_significance": "high"}
+
+{"prompt": "Tokodiso", "completion": "Ke thothokiso eo ho yona ho lokodiswang se itseng, e ka bang tse mpe kapa tse ntle. Hangata e phetwa e le pale e latelang thahlamano ya kamoo diketso di etsahalang kateng. Dithothokiso tse ding tsa mofuta ona li ka ba le baphetwa ba bangata le poloto e rarahang.", "type": "poetry_form", "category": "narrative_poetry", "academic_source": "Basotho Oral Literature, 1995", "poetic_devices": ["storytelling", "characterization"], "cultural_significance": "high"}
+
+{"prompt": "Tomatso", "completion": "Mofuteng ona wa thothokiso, sethothokisi se rorisa athe se phoga. E fupere lenyatso le tsamayang le sesomo, moo sethothokisi se nyatsang ka tesla ya ho soma. Sepheo sa tomatso ke ho kgalema kapa ho nyatsa boits'oaro bo itseng, hangata ka tesla e mahlonoko.", "type": "poetry_form", "category": "satirical_poetry", "academic_source": "Litaba tsa Sesotho, 2010", "poetic_devices": ["satire", "irony"], "cultural_significance": "medium"}
+
+{"prompt": "Kodiamalla", "completion": "Ke thothokiso eo ho yona sethothokisi se llang ka lebaka la ho utlwiswa ke bohloko ba leftu la eo se neng se mo rata haholo. Thothokiso ena e theola menyepetsi le ho ultwahatsa mefehelo e mafutsana a pelo. Hangata e na le maikutlo a mafutsana le ho hlalosa bohloko ba pelo.", "type": "poetry_form", "category": "elegy", "academic_source": "Matsela, 1989", "poetic_devices": ["lamentation", "pathos"], "cultural_significance": "sacred"}
+
+{"prompt": "Thothokiso ya selwalelwale", "completion": "Ke mofuta wa thothokiso o ngotsoeng ke dithothokisi tsa moraorao tse thoholetswang ke bahlabani ba kajeno, e leng bahlabani ba thuto. Thothokiso ena hangata e bua ka maikutlo a kajeno le maemo a setjhaba, e le hore e be le sepheo sa ho hlokomela kapa ho hlahisa maikutlo a setjhaba.", "type": "poetry_form", "category": "modern_poetry", "academic_source": "Sesotho Contemporary Lit., 2021", "poetic_devices": ["social_commentary", "realism"], "cultural_significance": "high"}
+
+{"prompt": "Lekola", "completion": "O sheba qotso, seratswana kapa tema ka kelohloko le kutlwisiso.", "type": "literary_analysis", "category": "observation", "academic_source": "Sesotho Literary Terms, 1998", "application": "close_reading", "cultural_significance": "medium"}
+
+{"prompt": "Hlahloba", "completion": "O tsepamisa maikutlo qotsong, seratswaneng kapa temeng hore o kgone ho hlwaya dipha le dintle tse fuperweng ke tema.", "type": "literary_analysis", "category": "examination", "academic_source": "Sesotho Literary Terms, 1998", "application": "critical_analysis", "cultural_significance": "medium"}
+
+{"prompt": "Sekaseka", "completion": "O tsenkolla qotso, seratswana kapa tema hore o hlakise dikarolo tse itseng tsa yona.", "type": "literary_analysis", "category": "investigation", "academic_source": "Sesotho Literary Terms, 1998", "application": "textual_analysis", "cultural_significance": "medium"}
+
+{"prompt": "Tshohla", "completion": "O hlalose ha batsi qotso, seratswana kapa tema hore o hlakise dikarolo tse itseng tsa yona.", "type": "literary_analysis", "category": "explanation", "academic_source": "Sesotho Literary Terms, 1998", "application": "interpretation", "cultural_significance": "medium"}
+
+{"prompt": "O nahana jwang", "completion": "O fana ka maikutlo kapa tsebo kapa boiphihlello ba hao.", "type": "literary_response", "category": "personal_reflection", "academic_source": "Sesotho Pedagogy, 2005", "application": "reader_response", "cultural_significance": "low"}
+
+{"prompt": "O dumellana le", "completion": "O thatiseletsa tlhahisoleseding o itshetlehile/o netefatse tsebo ya hao.", "type": "literary_response", "category": "agreement", "academic_source": "Sesotho Pedagogy, 2005", "application": "critical_response", "cultural_significance": "low"}
+
+{"prompt": "Mmabatho o bua le mang qotsong e ka hodimo?", "completion": "Mohlouwa/ monna wa hae.", "type": "literary_analysis", "category": "character_identification", "academic_source": "Lejwe la Kgopiso Analysis", "application": "textual_evidence", "cultural_significance": "low"}
+
+{"prompt": "Bolela mabitso a difelekwane tseo Mmabatho a buang ka tsona qotsong e ka hodimo.", "completion": "Tsietsi le Thapelo.", "type": "literary_analysis", "category": "character_identification", "academic_source": "Lejwe la Kgopiso Analysis", "application": "textual_evidence", "cultural_significance": "low"}
+
+{"prompt": "Ke hobaneng ha Mmabatho a re batho baa ke difelekwane?", "completion": "Ba ile ba fehla morusu ka ho kgothalletsa basebetsi ho tseka nyollelo ya moputso.", "type": "literary_analysis", "category": "character_motivation", "academic_source": "Lejwe la Kgopiso Analysis", "application": "plot_analysis", "cultural_significance": "medium"}
+
+{"prompt": "Ke eng sena se sekana seo 'bashanyana' bana ba se entseng hore ba hlongwe leihlo le ntjhotjho?", "completion": "Ke hobane ba batlile ba diha dikgwebo tsa Mohlouwa/ba ile ba kgothaletsa basebetsi ba bang ho kena mohwantong wa boipelaetso.", "type": "literary_analysis", "category": "plot_development", "academic_source": "Lejwe la Kgopiso Analysis", "application": "conflict_analysis", "cultural_significance": "medium"}
+
+{"prompt": "Hlalosa ha kgutshwanyane ka se ileng sa qetella se hlahetse dibapadi tsena tse pedi qetellong ya tshwantshiso ena.", "completion": "", "type": "literary_analysis", "category": "plot_summary", "academic_source": "Lejwe la Kgopiso Analysis", "application": "narrative_closure", "cultural_significance": "medium"}
+
+{"prompt": "Ho ya ka maemo a phedisano, ebe polao ya dibapadi tseo Tsietsi a di bolaileng e nepahetse?", "completion": "Tshehetsa karabo ya hao", "type": "literary_response", "category": "moral_judgment", "academic_source": "Lejwe la Kgopiso Analysis", "application": "ethical_analysis", "cultural_significance": "high"}
+
+{"prompt": "Sehlooho", "completion": "Ke lentswe kapa mantswe ao mongodi a ka tshetlehang maikutlo le mehopolo ya hae hodima ona.", "type": "literary_term", "category": "text_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "title_analysis", "cultural_significance": "low"}
+
+{"prompt": "Poloto/Moralo", "completion": "Ka poloto ho bolelwa kamoo diketsahalo di lotomantsweng kateng ho latela sebopeho sa diketsahalo tse tshwantshisong le kamoo e phetwang kateng.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "plot_analysis", "cultural_significance": "high"}
+
+{"prompt": "Poloto/Moralo", "completion": "Poloto ke tesla eo diketsahalo di hlahiswang le ho hlophiswa ka yona, kapa ke tesla eo di nyalanang ka yona.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "plot_analysis", "cultural_significance": "high"}
+
+{"prompt": "Poloto/Moralo", "completion": "Poloto e thehwe hodima kgohlano; kgohlano ke yona tshiya ya poloto hobane e thusa kgolong ya poloto. Qalong dibapadi di tobana le qaka kapa mathata (tsietsi) ao a hlokang ho ka rarollwa ha tshwantshiso e ntse e ya pele kapa e ya getellong (pheletsong).", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "conflict_analysis", "cultural_significance": "high"}
+
+{"prompt": "Poloto/Moralo", "completion": "Poloto/ moralo o thehwa ke dikgato tsena tse latelang: thekelo, qaleho ya kgohlano, kgolo ya kgohlano kapa tharahano, sehlohiolo, mothipoloho, phethelo kapa tharollo. E na le mefuta e meraro e leng: poloto ya tatelano e tlwaelehileng (A-Z ya diketsahalo), poloto e qalang mahareng a diketsahalo (e qala diketsahalo bohareng) le kgetlomorao/ho hetla morao (e thusa mmadi ho utlwisisa hore diketsahalo/ditaba di fihille jwang moo di leng teng).", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "plot_development", "cultural_significance": "high"}
+
+{"prompt": "Mefuta ya tatelano", "completion": "Poloto ya tatelano e tlwaelehileng: Mona mongodi o qala qalong hantle a re fe thaho le kgolo ya sebapadi ho finyella a ba moholo. Mofuta ona wa poloto o bitswa A-Z ya diketsahalo. Ha e le bonneteng ditaba tsa Lejwe la Kgopiso di nka mofuta ona wa poloto ka ho phethahala. Mongodi o otiollotse diketsahalo tsa tshwantshiso jwalo ka ketane, di qala qalong hantle ho finyella getelong.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "linear_narrative", "cultural_significance": "medium"}
+
+{"prompt": "Poloto e qalang mahareng", "completion": "Mona mongodi o qala ditaba tsa hae mahareng, a nto kgutlela morao kapa qalong ya dintho. Mongodi a ka sebedisa lewa lena la poloto hore mmadi a nyalanye diketsahalo ka boyena.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "in_medias_res", "cultural_significance": "medium"}
+
+{"prompt": "Poloto eo o hetlang morao (Kgetlomorao)", "completion": "Mona mongodi o sebedisa lewa lena e le ho thusa mmadi ho utlwisisa hore ditaba/diketsahalo tsa tshwantshiso di hlaha/tswaleha kae. Mongodi o hetlisa mmadi morao tshwantshisong e le ho mo kgutlisetsa morao hanyane ketsahalong/diketsahalong tse itseng tse ileng tsa etsahala pele.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "flashback", "cultural_significance": "medium"}
+
+{"prompt": "Dintlha tsa thekelo: Thekelo/ selekela", "completion": "Thekelong ke moo re tsebiswang ka dibapadi le kamano ya tsona; khr ke moo ho hlakang hore dibapadi di amana ka madi, ka lerato, ka tshebetso jj.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "exposition", "cultural_significance": "medium"}
+
+{"prompt": "Dintlha tsa thekelo: Thekelo/ selekela", "completion": "Re tsebiswa ka tikoloho e leng sebaka/tulo moo diketsahalo di etsahalang teng le nako eo diketsahalo di etsahalang ka yona.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "setting", "cultural_significance": "medium"}
+
+{"prompt": "Tikoloho le nako", "completion": "Di thusa ho bopela mmadi setshwantsho se hlakileng ka sebaka/tulo le nako (mehla efe). Sebaka sa diketsahalo tshwantshisong ena ke motseng wa Kgotsong. Tikoloho e hlaha e le motse setoropong moo ho nang le matlo a diRDP, ditamene, mehwanto ya boipelaetso, banna ba lebelang mabenkeleng, bana ba iswang le ho latwa dikolong, rakgwebo. Tsohle tsena di paka tikoloho le nako tshwantshisong ena.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "setting_analysis", "cultural_significance": "medium"}
+
+{"prompt": "Mohlala:", "completion": "Sebaka: Motse selehae, motse setoropo jj. Nako – mehleng ya sejwalejwale, ya sekgalekgale, nako ya letsatsi le sehla.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "setting_examples", "cultural_significance": "low"}
+
+{"prompt": "Kgolo/ kgwele", "completion": "Mothating ona thase ya kgohlano e a totobala.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "rising_action", "cultural_significance": "medium"}
+
+{"prompt": "Kgolo/ kgwele", "completion": "Molwantshi le molwantshuwa ba a pepeseha.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "rising_action", "cultural_significance": "medium"}
+
+{"prompt": "Kgolo/ kgwele", "completion": "Ke moo ditaba di qalang ho rarahana teng.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "rising_action", "cultural_significance": "medium"}
+
+{"prompt": "Kgolo/ kgwele", "completion": "Tsitsipano e holela pele.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "rising_action", "cultural_significance": "medium"}
+
+{"prompt": "Kgolo/ kgwele", "completion": "Dibapadi di jarelana dibetsa mme maemo a ntse a mpefala le ho feta. Mohlala: Lerato la Mohlouwa le Naledi le rarahantsha dintho le ho feta.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "rising_action", "cultural_significance": "medium"}
+
+{"prompt": "Tharahano", "completion": "Ke moo ditaba di rarahanang/fasehang teng. Mafitofito a iponahatsa mothating ona mme mafitofito ao a hodisa kgohlano ho ya pele.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "climax", "cultural_significance": "high"}
+
+{"prompt": "Tharahano", "completion": "Sebapadi sa sehlooho se kopana le mathata a mangata a rarahanyang bophelo ba sona ao se lokelang ho a rarolla.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "climax", "cultural_significance": "high"}
+
+{"prompt": "Sehlohiolo", "completion": "Ke tsullung ya diketsahalo, mona babadi le dibapadi di filhelwa ke tsitsipano e kgolo kelellong le mmeleng.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "climax", "cultural_significance": "high"}
+
+{"prompt": "Sehlohiolo", "completion": "Ditshita tse bileng teng di filha bokgutlong, mme ke moo re reng ho kgaoha moo ho kgwehlang.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "climax", "cultural_significance": "high"}
+
+{"prompt": "Sehlohiolo", "completion": "Ditaba di mpefetse hona hoo di ke keng tsa kgona ho senyeha ho feta mona. Seso se phunyehile. Mohlala: Tsietsi o bolaya batubi ba hae.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "climax", "cultural_significance": "high"}
+
+{"prompt": "Mothipoloho/ Tshenolo/ Thipoloho", "completion": "Mona ke moo tsitsipano le mafito di nyehlang teng. Ditaba di kguttela madulong. Dibapadi ba elellwa diphoso tsa bona. Tshwarelano e hlahella mohatong ona mme ya hlotsweng o a inehela. Ha ho sa tla ba le tharahano e mgwe empa ditaba di lokela ho lebisa pheletsong.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "falling_action", "cultural_significance": "medium"}
+
+{"prompt": "Tharollo/ phethelo", "completion": "Ke moo mongodi a bontshang pheletso ya diketsahalo.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "resolution", "cultural_significance": "medium"}
+
+{"prompt": "Tharollo/ phethelo", "completion": "Ke moo diketsahalo tsa dibapadi di neng di habile teng, e leng hore mathata a fedile, ditaba di boetse setlwaeding.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "resolution", "cultural_significance": "medium"}
+
+{"prompt": "Tharollo/ phethelo", "completion": "Thuto eo mongodi a neng a rerile ho e fetisetsa ho babadi e hlaha.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "moral", "cultural_significance": "high"}
+
+{"prompt": "Sekapoloto", "completion": "E ka hlahiswa ka mokgwa o totobetseng kapa ho ya ka tshekamelo ya mongodi.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "subplot", "cultural_significance": "medium"}
+
+{"prompt": "Sekapoloto", "completion": "Ke poloto e nyenyane kapa pokello ya diketsahalo tse mmalwa tse ahang tabana e itseng kgaolong ya tshwantshiso. Sekapoloto se na le kgokahano le poloto e ka sehloohong; se tilsa molemo, tharahano kapa se sisinya ho itseng, kapa hona ho tshehetsa mookotaba o hlahiswang ke poloto e ka sehloohong.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "subplot", "cultural_significance": "medium"}
+
+{"prompt": "Sekapoloto", "completion": "Se ttatsetsa kgodisong ya poloto le mookotaba.", "type": "literary_term", "category": "narrative_structure", "academic_source": "Sesotho Literary Terms, 1998", "application": "subplot", "cultural_significance": "medium"}
+
+{"prompt": "Kgohlano", "completion": "Ke mokokotlo wa tshwantshiso kapa pale.", "type": "literary_term", "category": "narrative_element", "academic_source": "Sesotho Literary Terms, 1998", "application": "conflict", "cultural_significance": "high"}
+
+{"prompt": "Kgohlano", "completion": "Ke tholvana ya morusu. Ke sesosa sa qabang e teng paleng kapa tshwantshisong.", "type": "literary_term", "category": "narrative_element", "academic_source": "Sesotho Literary Terms, 1998", "application": "conflict", "cultural_significance": "high"}
+
+{"prompt": "Mefuta ya kgohlano", "completion": "Kgohlano ya ka hare: Ke kgohlano ya sebapadi le maikutlo a sona. Sebapadi se a ipatla mme se ferekana maikutlo.", "type": "literary_term", "category": "narrative_element", "academic_source": "Sesotho Literary Terms, 1998", "application": "internal_conflict", "cultural_significance": "high"}
+
+{"prompt": "Mefuta ya kgohlano", "completion": "Mohlala: Ha Naledi boipuisong ba hae a bontsha kamoo a sa kgotsofatsweng ke maemo a bophelo ao ba phelang tlasa ona lapeng la hae. Sena se hlaka hantle nakong eo a neng a ntse a ntsha metsi a neng a tletse ka nttong ya bona kamora hore pula e ne. Mohlala o mong ke ha Mohlouwa a ne a belaela hore e se be Mmabatho o tseba ho hong ka kamano ya hae le Naledi.", "type": "literary_term", "category": "narrative_element", "academic_source": "Sesotho Literary Terms, 1998", "application": "internal_conflict", "cultural_significance": "high"}
+
+{"prompt": "Mefuta ya kgohlano", "completion": "Kgohlano ya ka ntle: Ena ke yona e bang tshiya/mokokotlo boholong ba dingolwa (pale le tshwantshiso). Kgohlano ena e ba pakeng tsa dibapadi moo re ka bonang di lwantshana ka mantswe, di tshwarana ka matshoho, di rerelana bobe. Kgohlano ena e hlola ho se dumellane dipakeng tsa dibapadi le tikoloho, pakeng tsa dibapadi le nako, pakeng tsa setso le bodumedi, pakeng tsa sebapadi le tthaho, pakeng tsa sebapadi le tikoloho, pakeng tsa sebapadi le tumelo le setso, pakeng tsa sebapadi le molao kapa bomorabe le tse ding. Boholo ba tshwantshiso ena bo fupere yona kgohlano ya ka ntle mme e hlahella ponong e mgwe le e mgwe.", "type": "literary_term", "category": "narrative_element", "academic_source": "Sesotho Literary Terms, 1998", "application": "external_conflict", "cultural_significance": "high"}
+
+{"prompt": "Mefuta ya kgohlano", "completion": "Mohlala: Re fumana kgohlano pakeng tsa Naledi le tthaho nakong eo pula e nang matlopotlopo mme e etsa hore Naledi a dulele ho ntsha metsi ka tlong letsheare lohle. Pula ena e baka le meqhafutso ka ntle moo ba tsamayang teng mme sena se a mo kgentsha.", "type": "literary_term", "category": "narrative_element", "academic_source": "Sesotho Literary Terms, 1998", "application": "external_conflict", "cultural_significance": "high"}
+
+{"prompt": "Mookotaba", "completion": "Ke ntthakgolo/tabataba e fuperweng ke tshwantshiso. Tshwantshisong ya Lejwe la Kgopiso, mookotaba ke bofutsana le bofuma. Re bona Mohlouwa a sebelisa maemo a hae jwalo ka morulhadi Kgotsong ho sotla bafutsana.", "type": "literary_term", "category": "theme", "academic_source": "Sesotho Literary Terms, 1998", "application": "theme_analysis", "cultural_significance": "high"}
+
+{"prompt": "Mookotajana", "completion": "Ke ntthanyana e ntseng e fupere nttha e ttatsetsang mookotaba wa sehlooho sengolweng.", "type": "literary_term", "category": "theme", "academic_source": "Sesotho Literary Terms, 1998", "application": "subtheme", "cultural_significance": "medium"}
+{"prompt": "Molaetsa", "completion": "Ke thuto eo o ithutileng yona kapa keletso eo mongodi a e arolelanang le babadi kapa eo mmadi a ithutileng yona kamora ho bala tshwantshiso. Tshwantshisong ya Lejwe la Kgopiso, re ithuta hore ke ntho e mpe ho sebedisa maemo kapa tshelete ho hatella bafutsana setjhabeng. Re boetse re ithuta hore motho o lokela ho amohela maemo a hae a bophelo ho sa kgathalatsehe hore ke afe hore a qobe ho ikenya mathateng.", "type": "literary_term", "category": "message", "academic_source": "Sesotho Literary Terms, 1998", "application": "moral_analysis", "cultural_significance": "high"}
+{"prompt": "Dibapadi di ka ba jwang?", "completion": "Di na le semelo se rarahaneng, di fetoha ka tesla e itseng (ntle/mpe) haholo ho ya ka diketsahalo tsa tshwantshiso.", "type": "literary_term", "category": "characterization", "academic_source": "Sesotho Literary Terms, 1998", "application": "character_development", "cultural_significance": "medium"}
+{"prompt": "Sebapadi se tjhitja", "completion": "Sebapadi sena ha se fetohe mme ha se fetolwe le ke maemo a renang le diketsahalo tse ntseng di nvalellana tshwantshisong.", "type": "literary_term", "category": "characterization", "academic_source": "Sesotho Literary Terms, 1998", "application": "static_character", "cultural_significance": "medium"}
+{"prompt": "Mefuta ya dibapadi/di batshwantshisi", "completion": "Molwantshuwa ke lengosa le ka sehloohong le ntshetsang tshwantshiso pele. Hangata ke sona sebapadi se tobanang le mathata a mangata tshwantshisong.", "type": "literary_term", "category": "characterization", "academic_source": "Sesotho Literary Terms, 1998", "application": "protagonist", "cultural_significance": "high"}
+{"prompt": "Molwantshi", "completion": "Ke sebapadi se kgahlanong le dikatleho tsa molwantshuwa e leng sebapadi sa sehlooho. Ha ho makatse hore ka dinako tse ding sona sebapadi sena sa sehlooho e ba sona molwantshi tshwantshisong ya thusang ho ntshetsa kgohlano pele.", "type": "literary_term", "category": "characterization", "academic_source": "Sesotho Literary Terms, 1998", "application": "antagonist", "cultural_significance": "high"}
+{"prompt": "A di borosola", "completion": "A di bentsha.", "type": "verb_phrase", "category": "action", "meaning": "to throw them down forcefully", "intensity": "violent", "context": "physical action", "movement": "downward"}
+
+{"prompt": "Ba ema dipasha/pashasha", "completion": "Ba ema ba otilotse mmele.", "type": "descriptive_phrase", "category": "posture", "meaning": "standing with tensed/rigid body", "physical_state": "stiff", "context": ["alertness", "fear"], "appearance": "erect and tense"}
+
+{"prompt": "A hlaha eka kgolabolokwe", "completion": "Ke kokwanyana e thetang polokwe.", "type": "comparison", "category": "appearance", "meaning": "appears like a kgolabolokwe (a small axe for splitting wood)", "visual": "sharp/angular appearance", "symbolism": "tool reference", "cultural_context": "traditional tools"}
+
+{"prompt": "A kgwageditse ka mahlong", "completion": "A tiisitse/a sa tshehe.", "type": "facial_expression", "category": "nonverbal", "meaning": "fixed/stubborn look in the eyes", "expression": "determined/disbelieving", "eye_contact": "intense", "emotional_state": "resolute or skeptical"}
+
+{"prompt": "O tla tswa kobo di fokaela", "completion": "O tla tswa ho le hobe/a baleha/o sa hetle moroa.", "type": "idiom", "category": "movement", "meaning": "will leave suddenly/run away without looking back", "speed": "abrupt", "intention": "escape", "completeness": "total departure"}
+
+{"prompt": "Dihlaha tsa bommamasianoke", "completion": "", "type": "noun_phrase", "category": "botany", "meaning": "plants/leaves of bommamasianoke", "note": "requires further definition", "botanical_class": "needs identification", "cultural_significance": "unknown"}
+{"prompt": "Dibapadi tsa tlatsetso", "completion": "Ke dibapadi tse ntshetsang ditaba tsa poloto pele, ka ho thusa molwantshuwa kapa molwantshi. Ha di na seabo se sekaalokaalo tshwantshisong. Ka lebaka leo di ka hlaloseha ka semelo se le seng feela.", "type": "literary_term", "category": "characterization", "academic_source": "Sesotho Literary Terms, 1998", "application": "supporting_character", "cultural_significance": "low"}
+{"prompt": "Semelo sa dibapadi", "completion": "Semelo ke sebopeho sa sebapadi seo re sa kgoneng ho se bona ka mahlo. Se fapane haholo le sebopeho sa mmele oo re kgonang ho o hlalosa ka ho sheba motho eo re buang ka yena ka mahlo feela.", "type": "literary_term", "category": "characterization", "academic_source": "Sesotho Literary Terms, 1998", "application": "character_traits", "cultural_significance": "medium"}
+{"prompt": "Dipuo tsa sebapadi", "completion": "Semelo sa sebapadi se ka pepeswa ke dipuo tsa mongodi ka sona. Dipuo tsa dibapadi tse ding ka sebapadi se seng le tsona di ka senola semelo sa sebapadi. Mohlala: Dipuo tsa Naledi ha a se a ratana le Mohlouwa di re senolela semelo sa hae se setjha sa ho bontsha tello momneng wa hae."}
+{"prompt": "Moaparo wa sebapadi", "completion": "Mokgwa oo sebapadi se aparang ka wona o senola semelo sa sona. Mohlala: Mokgwa oo Naledi a aparang ka wona kamora ho ratana le Mohlouwa le ho kenya mabenyane ho re senolela hore o se a fetchile semelong sa hae seo re mo tsebang ka sona sethathong, mme o se a nyatsa le monna wa hae."}
+{"prompt": "Menahano le mehopolo ya sebapadi", "completion": "Menahano le mehopolo ya sebapadi e senolwa boinotshing ba sona. E pepeswa nakong eo sebapadi se ntseng se bua se le mong kapa se ntseng se ipuisa."}
+{"prompt": "Diketso tsa sebapadi", "completion": "Diketso tsa sebapadi le tsona di senola semelo sa sona. Mohlala: Tiwaelo ya Mohlouwa ya ho kena dikobong le batho ba bomme pele a ba fa mosebetsi, e totobatsa hore ke motho ya kgopo ya sotlang basadi ka thobalano."}
+{"prompt": "Tikoloho le nako", "completion": "Tikoloho le nako tseo dibapadi di phelang ho tsona, di boetse di na le tshusumetso e kgolo (di)semelong sa (di)sebapadi. Ke ka hoo re yeng re utlwe Basotho ba kgotsa diketso tsa batjha ba mehleng ena ka hore ke mehlolo le hore di a swabisa."}
+{"prompt": "Thehello ya mabitso", "completion": "Thehello ya lebihso le yona e pepesa semelo sa sebapadi. Hopola maele ana a Basotho a reng, ‘Bitso lebe ke seromo’. Maele ana a hlakisa nttha ya hore ha o rehelle ngwana lebihso le hlalosang ntho e mpe, a ka tshwana a latella (futsa) lebihso la hae ka mekgwa le diketso."}
+{"prompt": "Molanako", "completion": "Ke tatellano ya ditaba sengolweng. Ke letoto la diketsahalo tseo mongodi a di hlahisang, mme di hokahana le ho bopa ngatana e le mgwe; di na le selelekela, mmele le getelo."}
+{"prompt": "Sehalo le maikutlo", "completion": "Kgetho e hlokolosi ya mantswe e thusa ho bopa sehalo le tlhahiso ya maikutlo a mongodi mme seo se ka ama maikutlo a mmadi ka tesla e itseng. Mohlala, maikutlo a mongodi a ka hlahisa sehalo se bontshang thabo, thonamo, maswabi, ho kgothatsa jj."}
+{"prompt": "Sepheto se sa lebellwang", "completion": "Ke moo mongodi a sebelisang lewa la ho ngoka thahasello ya babadi ka ho lahlisa mohlala ka seo ba neng ba se lebelletse (ho etsa hore ditaba di fetohe mme di se ke tsa tsamaya ho ya kanno ba neng ba lebelletse kateng)."}
+{"prompt": "Tomatso tshwantshisong", "completion": "Ke moo babadi ba tsebang haholo ka tse ding tsa diketsahalo ho feta dibapadi ka botsona. Babadi ba tesba bokgopo bo rerilweng ka sebapadi se seng ke se seng le bora bo reretsweng sebapadi seo, sona ha se tsebe letho ka dimpe tseo ba mo rerelang/reretseng tsona."}
+{"prompt": "Phogo", "completion": "Ke sekapuo se phogang ka ho sebelisa mantswe a hlabang, empa a bolela nnete e tswilleng matsoho."}
+{"prompt": "Mopheti", "completion": "Ke motho eo mongodi a rerileng ho sebelisa lentswe la hae ho pheta pale."}
+{"prompt": "Ditaelo tsa kalaneng", "completion": "Ke ditaelo kapa dithaloso tse ngotsweng ka masakaneng ho fa mmadi lesedi la se etsahalang, mohlala (o tihotiela lesela le metsi nkgong), (Mohlouwa o dutse kantorong ya hae, mme o ja masapo a hlooho)."}
+{"prompt": "Hlahoba", "completion": "O tsepamisa maikutlo gotsong, seratswaneng kapa temeng hore o kgone ho hlwaya dipha le dintle tse fuperweng."}
+{"prompt": "Sekaseka", "completion": "O tsenkolla gotso, seratshwana kapa tema hore o hlakise dikarolo tse itseng."}
+{"prompt": "Tshohla", "completion": "O qoga ka gotso, seratshwana, kapa tema ka botebo hore o hlakise dikarolo tse itseng."}
+{"prompt": "Ho ntsha/fana ka malkutlo", "completion": "O fana ka maikutlo a hae mahapi le seo a se botswang."}
+{"prompt": "O ka e Iwabela", "completion": "O ka e palama ka potlako.", "type": "verb_phrase", "category": "action", "meaning": "you can mount it quickly", "speed": "rapid", "context": "physical movement", "intensity": "immediate"}
+
+{"prompt": "A se a e na le kgwao", "completion": "Ho belaela/ho ngongoreha/itetlebo/sello.", "type": "state_description", "category": "emotion", "meaning": "to doubt/complain/grieve/lament", "emotional_state": ["uncertainty", "distress"], "expression": "verbal", "intensity": "moderate to strong"}
+
+{"prompt": "Enwa ya mo phubolang molomo", "completion": "Ya mo thodisang.", "type": "descriptive_phrase", "category": "effect", "meaning": "that which shuts his mouth/silences him", "impact": "stopping speech", "context": "conflict or argument", "nonverbal_result": "forced silence"}
+{"prompt": "O dumellana le se itseng", "completion": "O fana ka malkutlo a dumellanang kapa a tilsang seo o botswang ka sona."}
+{"prompt": "O hanana le se itseng", "completion": "O fana ka malkutlo a hananang kapa a phehisang seo o botswang ka sona."}
+{"prompt": "Akaretsa", "completion": "O fana ka kgutsufatso ya dintiha tsa bohlokwa tsa seo o botsitsweng ka sona."}
+{"prompt": "Ho una", "completion": "Ho fumana/kgola molemo o itseng."}
+{"prompt": "Ho qholotsa", "completion": "Ho toosa/hlahisa"}
+{"prompt": "Mohopolo wa sehlooho", "completion": "Ke tabataba/mooko wa seo ho buuwang ka sona"}
+{"prompt": "Mohopolo o tshehetsang", "completion": "Ke tajana e tshehetsang tabataba /mooko wa seo ho buuwang ka sona"}
+{"prompt": "Moelelo o totobetseng", "completion": "Ke moelelo o pepeneneng feela kapa o otlolohileng, o sa pateng letho. Mefuta ena ya puo e hloka mekgwa e patehileng ea ho bolela, e bontšang taba ka tsela e hlakileng e sa ruruganyeoang. E sebeliswa haholo dithutong, litšebelisano tsa molao le dinthong tse hlokang ho hlalosa ka ho hlaka.", "type": "linguistic_definition", "category": "literal_language", "academic_source": "Sesotho Linguistic Studies Vol. 3"}
+{"prompt": "Moelelo o patehileng", "completion": "Mantswe kapa dipolelo di sebedisitswe ka tsela eo e seng ya setlwaedi e le ha ho habilwe ho fihlela sepheo se itseng. Dithothokisong ho sebediswa puo ya bonono kapa moelelo o patehileng. Maele le maelana a fupere mofuta ona wa moelelo. Se bontšha bokgabane ba puo ea Sesotho ka ho sebelisa mekgwa e kang dikapuo le mekgabisopuo.", "type": "linguistic_definition", "category": "figurative_language", "poetic_example": "Mohlala: 'Pelo ea ka e le letsoku' (ho bolela bohloko)"]}
+{"prompt": "Maikutlo", "completion": "Ka maikutlo ho bolelwa se maikutlong a mmadi, se qholotswang ke seo a se balang thothokisong. E ka ba maikutlo a thabo, a ho sithabela/tetebela, a ho tshoha, a ho makala, a lerato, a ho hlokofala, a ho nyakalla a ho tsitsipana. Thothokisi e ka sebedisa mokgwa oa ho bapala ka mantswe ho hlohleletsa maikutlo a itseng ho mmadi.", "type": "literary_element", "category": "reader_response", "emotional_spectrum": ["thabo", "bohloko", "tlhokofalo", "lerato"]}
+{"prompt": "Sehalo", "completion": "Sehalo ke maikutlo kapa tjhadimo ya sethothokisi malebana le seo se ngolang ka sona thothokisong. Se ikutlwahatsa ka mantswe ao sethothokisi se a sebedisang, a supang kgalefo e kopantseng tlhokofalo, thabo e akgang motlae, a bontshang tomatso, a bontshang pelaelo, a tshehisang, a nang le lenyatso, a bontshang boikgohomoso. Sehalo se ka fumaneha ka ho hlaka thothokisong ea boitseko.", "type": "literary_element", "category": "tone", "analysis_tip": "Sheba mokgwa oa ho qetela oa mantswe le maqephe a sebelisoang"]}
+{"prompt": "Mookotaba", "completion": "Mookotaba ke mohopolo wa sehlooho temanathothokisong kapa thothokisong kaofela. E ka ba taba e kgolo e ngotsweng ka hare ho thothokiso, e kang lerato, ntoa, kapa boikhutsong. Mookotaba o hlokahala hore thothokiso e be le sepheo se hlakileng le ho tšoarella babadi.", "type": "literary_element", "category": "theme", "identification_method": "Sheba dipolelo tse pheta-phetang kapa maikutlo a fapaneng a amanang le taba e tšoanang"]}
+{"prompt": "Molaetsa", "completion": "Ke thuto kapa keletso e fuperweng ke thothokiso. Hangata e tla ba le sepheo sa ho ruta, ho kgothalletsa kapa ho fana ka maikutlo a bohlokwa. Molaetsa o ka fumanoa ka ho hlaka thothokisong ya thuto, empa o ka ba o patehileng thothokisong e meng.", "type": "literary_element", "category": "message", "interpretation_tip": "Nakong ea ho hlalosa molaetsa, sheba sepheo sa mongodi le maemo a setjhaba nakong eo"}
+{
+  "prompt": "Karaburetso",
+  "completion": "Ke mantswe, dipolelwana le dipolelo tse bopang ditshwantsho ka mehopolong ya babadi. Ke dipolelo tse amang ditho tsa kutlo ka tsela e itseng. Mohlala re na le karaburetso ya pono, ya kutlo, ya phofonelo, ya tatso, ya kamo le ya motsamao wa mmele e leng tse re bopelang mefuta e fapaneng ya karaburetso."
+}
+{
+  "prompt": "Dikapuo/Mekgabisopuo",
+  "completion": "Ke puo ya bonono e sebediswang dithothokisong ka tsela e sa tlwaelehang, e phephetsang kelello ho fihlella sepheo se itseng. Puo ya bonono ka nako e nngwe e bitswa puo ya “ditshwantsho” hobane e bopa setshwantsho ka monahanong wa mmadi. Maele le maelana a fupere mofuta ona wa moelelo. Sheba hape le tlhaloso ya dikapuo e tla latela ha moraonyana. Tse ding tsa dikapuo ke tse latelang: Kganyetsano, papiso, tshwantshiso, seemela/ phetolabitso, Leetsisa, mothofatso, thehello, kobiso, tatolano, pheteletso, tatolano, tomatso, tshehiso, phoqo/tomatso, mothipoloho, tshwaofatso, pebofatso, lepata, tarakanyo, phelephanyetso."
+}
+{"prompt": "Mothofatso", "completion": "Ho mothofatso se se nang bophelo ho buuwa ka sona jwalo kaha eka se a phela. Ha ho buuwe le sona. Mohlala: A fihla katiba e re o ne o mpeile kae?"}
+{"prompt": "Apostrofi", "completion": "Ho apostrofi, se se nang bophelo ho buuwa le sona, athe ho mothofatsa ho buuwa ka sona. Mohlala: Mokgathala towe ekaba o nkutlwang?"}
+{"prompt": "Papiso", "completion": "Mona ho bapiswa dintho tse sa tshwaneng ka botlalo. Tshwano e ka ba ntlheng e le nngwe, mme ho sebediswa mantswe a kang jwalo ka, seka, tjena ka, sa, la, ba, eka jj. Mohlala: ‘Mosele ditlhodisanong o bua jwalo ka ntate Mandela.’"}
+{"prompt": "Tshwantshiso", "completion": "Ho tshwantshiso ho rehellwa motho ka se itseng. Tshwantshisong ha ho sebediswe mantswe a kang jwalo ka, seka, tjena ka, sa, la, ba, eka jj. Ho rehellwa motho ka ho otloloha. Mohlala: ‘Tefo ke nare ntweng’."}
+{"prompt": "Pebofatso/Pebolo", "completion": "Ho pebofatso ho sebediswa mantswe a bobebe bakeng sa a boima, a hlabang ha bohloko. Mohlala: Diau o kganna dinku kajeno (bakeng sa ho re o tahilwe)"}
+
+{"prompt": "Papaela", "completion": "Ho matha haholo o baleha o fokaela mohlomong o ya le moo o sa tsebeng.", "type": "verb", "category": "movement", "intensity": "rapid", "context": "escape/fleeing", "emotional_state": "panic/uncertainty", "physical_state": "diminished capacity"}
+
+{"prompt": "Paroletsa", "completion": "Ho tsamaya o feta hara dibaka tse ding. Ka nako e nngwe o sa tsamaye ka tsela e potang hole, o kgaoletsa.", "type": "verb", "category": "movement", "style": "meandering", "navigation": "non-linear path", "purpose": "exploration or avoidance"}
+
+{"prompt": "Mehwabadi", "completion": "Metwa kapa metopa e bakilweng ke shatjwa ka thupa kapa phafa.", "type": "noun", "category": "physical_injury", "cause": "beating with stick/whip", "appearance": "stripes/weals", "severity": "moderate"}
+
+{"prompt": "Maoma", "completion": "Maqeba a mabe a hloohong a bakilweng ke ho kgakgathwa.", "type": "noun", "category": "injury", "location": "head", "cause": "repeated hitting", "severity": "serious"}
+
+{"prompt": "Mosepedi", "completion": "Motho ya tsamayang dibaka tse telele ka maoto.", "type": "noun", "category": "person_description", "activity": "long-distance walking", "transport": "on foot", "endurance": "high"}
+
+{"prompt": "Ditshika", "completion": "Mesifa", "type": "noun", "category": "physical_features", "appearance": "scars", "origin": "various causes", "visibility": "permanent marks"}
+
+{"prompt": "Qhobosheane", "completion": "Sebaka seo setjhaba se itshireletsang ho sona, mme ho le boima ho ba direng hore ba fihle ho sona.", "type": "noun", "category": "place", "purpose": "refuge/shelter", "accessibility": "difficult to reach", "function": "community protection"}
+
+{"prompt": "Mohahlaula", "completion": "Motho ya tsamayang hohle a fihla dibakeng tse ngata.", "type": "noun", "category": "person_description", "activity": "extensive traveling", "mobility": "high", "experience": "wide-ranging"}
+
+{"prompt": "Tlatlamatjholo", "completion": "Modimo", "type": "noun", "category": "spiritual", "meaning": "God", "context": "religious/spiritual reference", "significance": "supreme being"}
+
+{"prompt": "Pheteletso", "completion": "Ke ha ketsahalo kapa ntho e feteletswa ka boomo, ka ho e nyenyefatsa haholo kapa ho e hodisa haholo ka sepheo sa ho matlafatsa seo ho buuwang ka sona. Mohlala: Letsatsi la monongwaha le tjhesa le mawatle."}
+{"prompt": "Lepata", "completion": "Mona sethothokisi se sebedisa mantswe a hanyetsang/latolang ka sepheo sa ho matlafatsa seo se buang ka sona. Mohlala: Ruri ha ke a kgathala le kgale! Mantswe ana; ‘ha ke a’ ekare a a hana kapa a a latola athe a hlile a tiisa ntlha ya hore o hlile o kgathetse e le ka nnete."}
+{"prompt": "Komelo", "completion": "Mona sethothokisi ha se bolele se itseng ka botlalo, empa se se omela feela ka tshepo ya hore mmadi o tla se elellwa, mme a se amanye le sena seo ho buuwang ka sona."}
+{"prompt": "Mohlala: Komelo", "completion": "Kgoba ke kgabo ya role le lefubedi Role le lefubedu la mohla monene Mona sethothokisi se omela diketsahalo tsa lerole le lefubedu la selemo sa 1933 ka kutlwisiso ya hore mmadi o tseba ka diketsahalo tsa selemo seo. Ke ka hona a sebedisang mantswe a reng ‘mohla monene’."}
+{"prompt": "Mohipoloho", "completion": "Mona ho hlophiswa kapa ho buuwa ka dintho ka tlhahlamano ya tsona e qalang ka tse kgolo, e theohele tlase ho tse fokolang/nyane."}
+{"prompt": "Mohlala: Mohipoloho", "completion": "Dira di bolaile marena, bahale le bafo."}
+{"prompt": "Sehlohlo", "completion": "Mona ho hlophiswa dintho ka tlhahlamano ya tsona e qalang ka tse nyane e nyolohele hodimo ho tse kgolo."}
+{"prompt": "Mohlala: Sehlohlo", "completion": "Dira di bolaile bafo, bahale le marena."}
+{"prompt": "Kganyetsano", "completion": "Ke ha ho hlahiswa mehopolo e mmedi e hanyetsanang, e atamelaneng melathothokisong kapa meleng e hlahlamanang."}
+{"prompt": "Mohlala: Kganyetsano", "completion": "Ekare ha o etsa hantle, Sefahleho sa hao se sosobanetseng?"}
+{"prompt": "Tatolano", "completion": "Ke ha ho sebediswa mantswe a mabedi a latolanang ho hlakisa se itseng."}
+{"prompt": "Mohlala: Tatolano", "completion": "Sefefo sena se entse lefifi la motsheare Hara banna ke ya marapo a bonolonolo"}
+{"prompt": "Tomatso", "completion": "Mona sethothokisi se tshwaya phoso ka ho kgalema kapa ho nyatsa diketso tse itseng, tse sa amoheleheng setjhabeng ka ho sebedisa phoqo, nyatso, kobiso kapa tshehiso e nyefolang."}
+{"prompt": "Mohlala: Tomatso", "completion": "Majakane le batlang keiting ya dihele hoba le lokile?"}
+{"prompt": "Phetolabitso/Seemela", "completion": "Mona sethothokisi se sebedisa kamano ya lebitso kapa lentswe le ntho e amanang le lona ka tlwaelo. Ho sebediswa lebitso le emetseng se bolelwang ho e na le hore ho sebediswe lebitso la ntho eo la mantlha."}
+{"prompt": "Mohlala: Phetolabitso/Seemela", "completion": "Pitsa e a bela. Hantlentle ho belang ke metsi a ka hara pitsa e seng pitsa ka boyona."}
+{"prompt": "Difilefile", "completion": "Batho ba bangata", "type": "noun", "category": "group_description", "meaning": "many people", "quantity": "large group", "context": "crowd/gathering", "social_implication": "collective presence"}
+
+{"prompt": "Nija ha e tshetse molapo ke boraki", "completion": "Motho ha a le diijhabeng o a ikokobetsa", "type": "proverb", "category": "behavioral_metaphor", "meaning": "a person humbles themselves among enemies (like a dog that has crossed a river is cautious)", "lesson": "prudence in hostile environments", "animal_reference": "dog behavior", "cultural_wisdom": "strategic humility"}
+
+{"prompt": "Modulaghowa", "completion": "O lebela hore dira di se ke tsa kena di sa lebellwa/sehlwela", "type": "noun", "category": "preventative_measure", "meaning": "one who prevents things from entering unnoticed", "function": "guardian/watchful presence", "vigilance_level": "high", "context": "protection/security"}
+
+{"prompt": "A se ke a setlela", "completion": "A se ke a tsitsa", "type": "verb_phrase", "category": "command", "meaning": "should not settle/remain calm", "imperative_type": "prohibition", "desired_state": "continued activity", "opposite": "complacency"}
+
+{"prompt": "Tidimahadi", "completion": "Ngaka ya popota/sebele", "type": "noun", "category": "occupation", "meaning": "traditional healer of snakes/venom", "specialization": "snake bites", "medical_tradition": "indigenous healing", "danger_level": "high-risk practice"}
+
+{"prompt": "Nija e gate mohatla", "completion": "A swabe/ho honyetsa matla kapa mafolofolo", "type": "descriptive_phrase", "category": "action", "meaning": "to humiliate/reduce someone's power or strength (like a dog biting the back)", "intensity": "severe", "animal_metaphor": "dog attack", "social_impact": "loss of status"}
+
+{"prompt": "Bobotheha", "completion": "Bososela", "type": "noun", "category": "state", "meaning": "rot/decay", "physical_state": "deterioration", "process": "organic breakdown", "negative_connotation": true}
+{"prompt": "Phelephanyetso", "completion": "Mona sethothokisi se bapala ka mantswe a tshwanang ka modumo ka sepheo sa ho qabola. Sekapuong sena ho sebediswa lentswe le ka bang le meelelo e mmedi e fapaneng, mme se tlisa phelephanyetso ho eo puo e lebisitsweng ho yena. Sepheo ka ho sebedisa sekapuo sena e ka ba ho qabola kapa ho hakanya ho itseng."}
+{"prompt": "Mohlala: Phelephanyetso", "completion": "Pule: Ke nka hlama. Thakane: Esale ke o bona hore o Nkahlama. (Dipale le Metlae, JJ. Moilwa)"}
+{"prompt": "Mohlala: Phelephanyetso", "completion": "Esale ke o emela mona athe wena o ithomme."}
+{"prompt": "Thehello", "completion": "Mona sethothokisi se sebedisa lentswe le emelang leloko kapa sehlopha se itseng. Mohlala, ha ho thwe: “O re fe kajeno bohobe ba tsatsi le leng le le leng,” bohobe ke lentswe le emelang leloko la dijo. Jwale ebe tsohle tse welang sehlopheng sa dijo di rehellwa ka bohobe."}
+{"prompt": "A e phamola", "completion": "Ho e nka ka matla.", "type": "verb_phrase", "category": "action", "intensity": "forceful", "meaning": "to take something by force", "context": "physical acquisition"}
+
+{"prompt": "Ditsohaphora di ntseng di e tla di hulanya macto", "completion": "Batho ba tsohang motsheare/batho ba tshoha nako e se e lie.", "type": "descriptive_phrase", "category": "time_reference", "meaning": "people who arrive late", "connotation": "negative", "time_context": "evening/late hours"}
+
+{"prompt": "Hodimo mane matswapong", "completion": "Ke moo dithaba kapa dithajana tse pedi di kopanang teng.", "type": "locational_phrase", "category": "geography", "meaning": "where two mountains or hills meet", "visual": "convergence point", "landscape_feature": "mountain pass"}
+
+{"prompt": "Ke hona mona moo ditilattie di kopanang teng", "completion": "Batho ba bangata.", "type": "idiom", "category": "gathering", "meaning": "where paths converge (many people)", "symbolic": "meeting point", "social_context": "crowds"}
+
+{"prompt": "Pula e phalla ka sekgahla se matla", "completion": "Ka sefutho se seholo.", "type": "meteorological", "category": "weather", "meaning": "rain falling heavily", "intensity": "strong", "equivalent": "pouring rain"}
+
+{"prompt": "Eitse sephoko se sa re se hiekela moya", "completion": "Motho ya qalang pina.", "type": "musical_term", "category": "performance", "meaning": "person who starts a song", "role": "song leader", "cultural_context": "group singing"}
+
+{"prompt": "Ho hiahella pooaneng", "completion": "Pepeneng/ho hiahella moo ba bonwang/sebaeng.", "type": "verb_phrase", "category": "movement", "meaning": "to appear suddenly in view", "context": ["visibility", "surprise"], "location": "open space"}
+
+{"prompt": "Dipapading ke sebabole", "completion": "O tesba dipapadi.", "type": "saying", "category": "knowledge", "meaning": "knows the games (expert)", "connotation": "experienced", "context": "familiarity with activities"}
+
+{"prompt": "A ema kgekgenene", "completion": "A ema a sa sisinyehe/a ema tiekelele.", "type": "descriptive_phrase", "category": "posture", "meaning": "standing completely still", "intensity": "motionless", "physical_state": "rigid"}
+
+{"prompt": "Ya e ba lereforefo", "completion": "Ba ema ka nako tse fapakaneng.", "type": "descriptive_phrase", "category": "behavior", "meaning": "standing at different times", "pattern": "irregular", "context": "uncoordinated timing"}
+{"prompt": "Leetsisa", "completion": "Mona sethothokisi se sebedisa lentswe le etsang modumo, mme le thusa ka ho utlwahatsa modumo o tshwanang le wa ketso e bolelwang. Mohlala: Keteu! Keteu! Keteu! Ke tshepe ya kereke e bitsa majakane."}
+{"prompt": "Kobiso", "completion": "Mona sethothokisi se sebedisa lentswe le kgahlano le se bolelwang. Mohlala: Kgele a tla a kgothala he ngwana hao! (Bonnete ba taba ke hore ya bolelwang o botswa haholo)"} 
+{"prompt": "Tshwaofatso", "completion": "Mona sethothokisi se sebedisa mantswe a itseng a tsamaellanang le ho tshwana le seo ho buang ka sona. Mohlala: Diolo tse ngata tse motopo, Mahlabatheng kwana Sahara, Diolo tseo ho buuwang ka tsona di tshwaofatsa mabitla a bahale ba Afrika Borwa ba ileng ba shwella Ntweng ya II (Bobedi) ya lefatshe kwana mahwatateng a Sahara."}
+{"prompt": "Tarakanyo", "completion": "Mona sethothokisi se sebedisa mantswe ka tsela eo o ka bang wa re ho teng kganyetsano e itseng empa ha o badisisa o elellwa hore ehlile ha ho jwalo."}
+{"prompt": "Mohlala: Tarakanyo", "completion": "Katana tsa ngwanenwa ke kgauta."}
+{"prompt": "Ho a makatsa hore dikatana di ka bapiswa le kgauta ka tsela e jwang athe kgauta ke letlotlo mme dikatana ke ntho tsa ho lahlwa.", "completion": "Sena se bolela hore ngwana ya lehlaswa o a senya. O bapala ka tjhelete jwalo kaha eka ke dikatana tsa ho lahlwa."}
+{"prompt": "Phetapheto", "completion": "Mona sethothokisi se sebedisa mawala a sebediswang ho leka ho natefisa le ho matlafatsa puo ka ho phethapheta mantswe, dipolelo, dipolelwana kapa ditemana tse tshwanang."}
+{"prompt": "Phetapheto", "completion": "Re na le mefuta e latelang ya phetapheto:"}
+{"prompt": "Phetapheto ya mantswe", "completion": "Ke ha ho phetwaphetwa mantswe a itseng molathothokisong kapa melathothokisong e hlahlamanang."}
+{"prompt": "Mohlala: Phetapheto ya mantswe", "completion": "Thothokisong ya Exoda re na le phetapheto ya mantswe e rapameng e fumanwang molathothokisong wa 17, 41 le wa 49. Yona e ralehile ka mokgwa ona:"}
+{"prompt": "Mohlala: Molathothokisong wa 17", "completion": "Thibang, thibang dihole tseo"}
+{"prompt": "Mohlala: Molathothokisong wa 41", "completion": "Kanana, ahe, Kanana!"}
+{"prompt": "Mohlala: Molathothokiso wa 49", "completion": "Le bine, le bine , MaAforika"}
+{"prompt": "Phetapheto e nngwe ya mantswe", "completion": "Ke eo re reng ke e tshekalletseng. Mona lentswe le phetwa melathothokisong e mmedi e hlahlamanang empa le se sebakeng se le seng melathothokisong eo."}
+{"prompt": "Kgefutso/Sejura", "completion": "Kgefutsohare ke letshwao (,) le sebediswang ka hara molathothokiso ka dipheyo tse fapaneng. Sethothokisi se ka e sebedisa ho katla/ho kgina morethetho, ho lekanya moelelo wa mantswe a arolwang ke yona le hona ho fana ka kgatello kapa sefutho lentsweng."}
+{"prompt": "Mohlala: Kgefutso/Sejura", "completion": "O wa ka, ke wa hao Wa hla wa rehwa Diabolose, Ramautla;"}
+{"prompt": "Ho baka Kgefutso/Sejura", "completion": "Sethothokisi se ka e sebedisa ho katla/ho kgina morethetho, ho lekanya moelelo wa mantswe a arolwang ke yona le hona ho fana ka kgatello kapa sefutho lentsweng."}
+{"prompt": "Mohlala: Ho baka Kgefutso/Sejura", "completion": "Mehlaleng ena e sebedisitswe ho lekanya moelelo wa mantswe ao e leng dipakeng. Ka mantswe a mang, ‘O wa ka le ke wa hao’ e bolela feela hore re ntho e le nngwe. Mohlaleng wa bobedi Diabolose le Ramautla di bolela ntho e le nngwe feela ‘satane’."}
+{"prompt": "Lebotsi", "completion": "Lebotsi ke letshwao la potso (?) leo sethothokisi se le sebediswang ho bontsha maikutlo a ho makala, ho tletleba le ho belaela. Ha e le hantle sethothokisi se ipotsa potso eo se ntseng se tseba karabo ya yona."}
+{"prompt": "Mohlala: Lebotsi", "completion": "Jo! Ngwaneso, Ha o ne o le siyo, Ke ne nka thuswa ke mang?"}
+{"prompt": "Enjambement/Molamotjetje", "completion": "Ke bokgabo boo ho bona ho se nang letshwao la ho bala qetellong ya molathothokiso. Sepheo sa ho e sebedisa ke ho bontsha kgokahano ya melathothokiso eo e mmedi. Ka mantswe a mang ho bolelwa hore ditaba/mohopolo oo ho buuwang ka wona molathothokisong o ka hodimo, o tla fella ho o latelang."}
+{"prompt": "Anastrofi", "completion": "Ke ho fetolwa ha tatellano e tlwaelehile ya mantswe molathothokisong. Sethothokisi se e sebedisa ho fana ka kgatello kapa tsepamiso ya maikutlo mantsweng a tlositsweng sebakeng seo ho tlwaetsweng a sebediswa ho sona."}
+{"prompt": "Mohlala: Anastrofi", "completion": "Basadi ka masokwana ba di toula. Ka tlwaelo molathothokiso ona o baleha tjena: Basadi ba di toula ka masokwana. Ka hoo he, mantswe ana: ka masokwana, a tlositswe sebakeng sa ona sa tlwaelo."}
+{"prompt": "Kgetho ya mantswe", "completion": "Mona re bua ka kgetho le tshebediso ya mantswe, a sa tlwaelehang le a sebediswang ka sewelo ka morero wa ho hlakisa ntlha e itseng."}
+{"prompt": "Aptronime", "completion": "Ke thehello ya lebitso ho ya ka diketso tsa eo ho buuwang ka yena thothokisong. Mohlala: Mmadibwerane o ne a sa di hadikela ho di ja! Lebitso Mmadiberwane le bolela motho ya buang ditaba tse mpe haholo a sa kgaotse, a bile a sa mamele. Lebitso lena le tsamaellana le ho se hlomphe hoo a ho bontshang ka nako tsohle ha a bua."}
+{"prompt": "Khakhafoni", "completion": "Ke tshebediso ya mantswe a etsang modumo o nyarosang. Mohlala: Ba mo kgokgothela sefapanong mora Modimo. Ba mo kgakgatha! Modumo o nyarosang wa 'kg' o sebediswa ha ho botjwa mantswe a kang 'kgokgothela', 'kgama', 'kgakgatha'; 'kgorohela' o bopa karaburetso ya motsamao wa mmele."}
+{"prompt": "Mabitsohokwa/Mabitsomararane/Mantswemararane", "completion": "Ke lentswe le bopilweng ka ditho tse pedi tsa puo tse kang 'leetsi' le 'lebitso' jj. Mohlala: Leetsi + lebitso = modulasetulo"}
+{"prompt": "Tlohelo", "completion": "Tlohelo ke moo sethothokisi se tlohetseng lentswe lohle ho potlakisa morethetho le ho ngotla molathothokiso."}
+{"prompt": "Mohlala: Tlohelo", "completion": "O nkutlwe ke boledisa tseso tsa Taung, Molathothokisong ona sethothokisi se tlohetse lentswe ‘dikgomo’."}
+{"prompt": "Kgonyetso", "completion": "Ho kgonyetswa kapa ho fokotswa karolo e itseng ya lentswe, ka sepheo sa ho tlisa kgatello/sefutho lentsweng leo. Hape kgonyetso e potlakisa morethetho wa molathothokiso."}
+{"prompt": "Mohlala: Kgonyetso", "completion": "Role le lefubedu la mohla monene. Mona ho honyeditswe ‘le’ ya lerole."}
+{"prompt": "Lehlaso", "completion": "Lehlaso ke phetapheto ya mantswe sebakeng se itseng ka hara temanathothokiso. Hangata lehlaso le atisa ho phetwa qetellong ya temanathothokiso."}
+{"prompt": "Mohlala: Lehlaso", "completion": "Bobedi re ba Modimo. O ele hloko hore lehlaso le etsa hore mohopolo oo ho buuwang ka wona o be le sefutho, o be o dule kelellong ya mmadi ka lebaka la ho phetwaphetwa."}
+{"prompt": "Lekgotsi", "completion": "Lekgotsi ke mokgabisopuo oo ho wona sethothokisi se kgotsang kapa se babatsang se itseng. Se ka kgotsa hobane se maketse kapa se hlolletswe kapa sa babatsa hobane se thabile se thoholetsa. Lekgotsi le iponahatsa ka letshwao la makalo (!) molathothokisong."}
+{"prompt": "Mohlala: Lekgotsi", "completion": "Jo! Ngwaneso, Ha o ne o le siyo, Ke ne nka thuswa ke mang?"}
+{"prompt": "Shwahle", "completion": "Motho ya buang haholo."}
+{"prompt": "Tsetsela", "completion": "Ho lla ka lentswe le lesesanyane, o llela tlase."}
+{"prompt": "Mabotjhobotjho", "completion": "Sebaka se bonojana se hlokang makukuno se bothoselang."}
+{"prompt": "Dimenyemenye", "completion": "Dijo tse monate."}
+{"prompt": "Tshehlana", "completion": "Ngwanana ya kganyang ka lebala."}
+{"prompt": "Mankgwe le Dikgoshopa", "completion": "Batho ba babe ka tshobotsi."}
+{"prompt": "Molaedi", "completion": "Motho ya laelang kapa ya laolang sebakeng sa tshebetso."}
+{"prompt": "Boteduputswa", "completion": "Ke bannabaholo, ke maqheku."}
+{"prompt": "Pitika", "completion": "Ho itheta fatshe."}
+{"prompt": "Tshotso", "completion": "Ke mafura/ mohlehlo o hadikilweng ha ntshwa mafura, mafura ao ke tshotso."}
+{"prompt": "Phaphatheha", "completion": "Ho tsamaya o sa tsebe moo o yang teng ka sepheo sa ho baleha."}
+{"prompt": "Lerabele", "completion": "Motho ya hlanohetseng ditshepiso."}
+
+{"prompt": "Lempetje", "completion": "Motho ya sa tshepahaleng ya fetohelang ditshepiso tsa hae.", "type": "noun", "category": "person_description", "traits": ["untrustworthy", "unreliable"], "behavior": "breaking promises", "social_consequence": "loss of trust"}
+
+{"prompt": "Mohoula", "completion": "Dintho tse ngata tse setseng motho morao.", "type": "noun", "category": "situation", "meaning": "backlog of things", "state": "accumulated", "effect": "causing delay", "contexts": ["work", "responsibilities"]}
+
+{"prompt": "Somasomane", "completion": "Mathata kapa ditsietsi tse ngata/tse kgolo haholo.", "type": "noun", "category": "state_of_affairs", "intensity": "severe", "nature": ["problems", "difficulties"], "impact": "overwhelming"}
+
+{"prompt": "Ntwa ya kgumamela", "completion": "Ntwa e kgolo kapa e mpe.", "type": "noun_phrase", "category": "conflict", "scale": "major", "severity": "intense", "duration": "prolonged", "outcome": "decisive"}
+
+{"prompt": "Ho lwanela molamu wa hlooho", "completion": "Ho tshireletsa/pholosa motho mathateng a maholo.", "type": "idiom", "category": "protection", "meaning": "to defend someone vigorously", "literal_translation": "fight for someone's head stick", "context": "extreme situations"}
+
+{"prompt": "Peni", "completion": "Sente.", "type": "noun", "category": "object", "equivalence": "cent", "monetary_value": "smallest unit", "context": "financial"}
+
+{"prompt": "Ho boya sekwele", "completion": "Ho kgutlwela ho se itseng kapa tulong e itseng.", "type": "verb_phrase", "category": "action", "meaning": "to retreat or withdraw", "contexts": ["conflict", "debate"], "connotation": "strategic or fearful"}
+
+{"prompt": "Mohahlaula", "completion": "Motho ya tsamayang hohle a fihla dibakeng tse ngata.", "type": "noun", "category": "person_description", "traits": ["well-traveled", "mobile"], "activity": "extensive movement", "experience": "broad"}
+
+{"prompt": "Ha ho tikatiko", "completion": "Ha ho qeaqeo kapa pelaelo.", "type": "phrase", "category": "certainty", "meaning": "without a doubt", "intensity": "absolute", "usage": ["emphasis", "assurance"]}
+
+{"prompt": "Fanyehwa", "completion": "Ho leketliswa sefateng kapa kae feela moo o ka leketliswang teng."}
+{"prompt": "Phororo", "completion": "Metsi a noka a lepellang selomong kapa metsi a lelemelang a sa phalle empa a tswa ka potlako moo ho petetsaneng."}
+{"prompt": "Sekgohola", "completion": "Metsi a pula e nang ka matla mme a hohola sohle seo a kopanang le sona."}
+{"prompt": "Thebe", "completion": "Sesebediswa sa ho itshireletsa ntweng."}
+{"prompt": "Seemeng", "completion": "Moo ho se nang boitshirelletso/ pepeneneng."}
+{"prompt": "Hlapaolwa", "completion": "Ho rohakwa kapa ho bitsollwa."}
+{"prompt": "Kgakgathwa", "completion": "Ho otlwa kgafetsa."}
+{"prompt": "Hlahlathwa", "completion": "Ho ratha o tabolaka."}
+{"prompt": "Tseketseke/Semaumau", "completion": "Motho ya sa nkeng hantle hloohong."}
+{"prompt": "Dipha", "completion": "Dikodi tse mpe tse amang botho ba motho."}
+{"prompt": "Thotobolong", "completion": "Sebaka moo ho lahlelwang matlakala/ molora/ ditshila/dintho tse mpe."}
+{"prompt": "Moswang Jwang", "completion": "Dijo tse fumanwang ka mohodung wa phoofolo."}
+{"prompt": "Bokowa", "completion": "Boqwala."}
+{"prompt": "Moqhaka", "completion": "Kgau ya tlholo."}
+{"prompt": "Mehopolo e a farasa", "completion": "Mehopolo e a lahleha/tlalatlala"}
+{"prompt": "Tshita", "completion": "Ntho e sitisang motho ho etsa se itseng"}
+{"prompt": "Fokaela", "completion": "Ho ya le moya"}
+{"prompt": "Ho inwesa ka nkgo", "completion": "Ho ikgodisa/netefatsa", "type": "verb_phrase", "category": "action", "meaning": "to prepare/arm oneself", "context": "defensive preparation", "intensity": "deliberate", "physical_state": "ready", "connotation": "protective"}
+
+{"prompt": "Ho hoboswa", "completion": "Ho phoqwa", "type": "verb", "category": "state", "meaning": "to be forced/compelled", "volition": "against one's will", "intensity": "strong", "context": "coercion", "emotional_state": "distress"}
+{"prompt": "Fufula", "completion": "Ho fufulelwa"}
+{"prompt": "Ho dihela dinone", "completion": "Ho ntshetsa metsi dikobong o ntse o kgalehile"}
+{"prompt": "Lesiba", "completion": "Pene ya ho ngola"}
+{"prompt": "Kokosa", "completion": "Ho tshwarela ntho hodimo"}
+{"prompt": "Ho ba konkolela nneteng ya hae", "completion": "Ho ba isa ka ho ba qekisa", "type": "verb_phrase", "category": "persuasion", "meaning": "to convince them with his truth by overwhelming them", "method": "intellectual domination", "intensity": "forceful", "context": "debate/argument", "outcome": "total persuasion"}
+
+{"prompt": "O entse mahakantshane", "completion": "Kgopo taba", "type": "verb_phrase", "category": "speech", "meaning": "has made things unclear (like tangled threads)", "communication_style": "confusing", "metaphor": "tangled threads", "effect": "obfuscation", "clarity": "low"}
+
+{"prompt": "E kgwatsana", "completion": "E hloka nnete/ha e kgolehe", "type": "adjective", "category": "truthfulness", "meaning": "untruthful/not straightforward", "honesty_level": "low", "communication": "deceptive", "reliability": "untrustworthy"}
+
+{"prompt": "Ho hulanya maoto", "completion": "Ho tsamaya butle", "type": "verb_phrase", "category": "movement", "meaning": "to walk carefully/softly", "pace": "slow", "noise_level": "quiet", "intention": "stealth/caution", "body_part": "feet"}
+
+{"prompt": "Hweshehweshetsa", "completion": "Ho buela tlase", "type": "verb", "category": "speech", "meaning": "to speak softly/in a whisper", "volume": "low", "tone": "secretive", "context": "private communication", "articulation": "murmured"}
+
+{"prompt": "Ho hlwahlwaela le masui", "completion": "Ho tsamaya le masiu", "type": "verb_phrase", "category": "movement", "meaning": "to walk with milk (walk carefully as if carrying milk)", "caution_level": "high", "metaphor": "fragile cargo", "movement_quality": "delicate", "cultural_reference": "valuable commodity"}
+{"prompt": "Laimela", "completion": "Ho kgorohela se itseng"}
+{"prompt": "Hemesela", "completion": "Ho phefumolaha ka matla ka morao ho ho matha ho tsamaya ka matla/ sebetsa ka matla"}
+{"prompt": "Soto", "completion": "Ho ba kgopo"}
+{"prompt": "Mpowane", "completion": "Motetesuwa/Ngwana ya hodiswang a teteswa ke batswadi ba hae."}
+{"prompt": "Sello sa mmokotsane/Phohomela", "completion": "Sello se seholo."}
+{"prompt": "Di ntetekile", "completion": "Di ntjhapile habohloko."}
+{"prompt": "Ho kgweletsa", "completion": "Ho phahamisa mese o e subele."}
+{"prompt": "Dithebetha", "completion": "Mose wa Basotho o teteaneng, o sehlopha o etsang eka motho o nonne."}
+{"prompt": "Bipetsana", "completion": "Ho hloleha ho hema."}
+{"prompt": "Ho teha kalala", "completion": "Ho hloleha", "type": "verb_phrase", "category": "outcome", "meaning": "to fail completely", "intensity": "total", "result": "unsuccessful", "context": "endeavors/tasks", "connotation": "disappointing", "visual_metaphor": "empty calabash"}
+
+{"prompt": "Ho fantsha", "completion": "Ho fosisa/o etsa phoso", "type": "verb", "category": "action", "meaning": "to err/make a mistake", "error_type": ["misjudgment", "accidental"], "severity": "variable", "correctable": true, "learning_opportunity": true}
+
+{"prompt": "Ho e lata letailana", "completion": "Ho qala/ho qala ntwa", "type": "verb_phrase", "category": "initiation", "meaning": "to start it gradually/to begin a fight", "pace": "gradual", "context": ["beginnings", "conflict"], "intensity_progression": "increasing", "conflict_level": "emerging"}
+{"prompt": "Manyaleng", "completion": "Ketsong tse mpe."}
+{"prompt": "Marapo", "completion": "Mesifa."}
+{"prompt": "Kgabane", "completion": "Motho ya hlomphehang ka ho etsa diketso tse kgahlisang."}
+{"prompt": "Tao", "completion": "Ke sebaka /lefelo."}
+{"prompt": "Mankwaneng", "completion": "Ke ho lahlela ho itseng hole /matjoing/mangopeng."}
+{"prompt": "Difi", "completion": "Ke maraba."}
+{"prompt": "Dikaqa", "completion": "Ho bolelwa pelo e mafito e mpe."}
+{"prompt": "Ho peretlisa", "completion": "Ho bua ka ntho o sa kgaotse ka mokgwa o tena."}
+{"prompt": "Sakana la nkope", "completion": "", "type": "noun_phrase", "category": "object", "meaning": "chameleon's trap", "cultural_significance": "traditional hunting tool", "material": "likely woven fibers", "purpose": "capturing small reptiles", "note": "requires further ethnographic research for complete definition"}
+
+{"prompt": "Sedikadikwe", "completion": "", "type": "noun", "category": "concept", "meaning": "state of confusion/disorder", "emotional_state": "disorientation", "intensity": "moderate_to_high", "physical_manifestation": "uncoordinated movement", "context": "mental or social situations", "note": "exact etymology needs verification"}
+
+{"prompt": "Leihlo la Kaine", "completion": "Leihlo le lebe la bora", "type": "noun_phrase", "category": "biblical_reference", "meaning": "Cain's eye/the evil eye of malice", "origin": "Genesis narrative", "symbolism": "jealousy and violence", "cultural_interpretation": "expression of deep-seated envy", "protective_measures": "traditional remedies against evil eye"}
+{"prompt": "Ho natsa", "completion": "Ho tsotella."}
+{"prompt": "Motopo", "completion": "Sebopeho se entseng tsullunyana e yang hodimo", "type": "literary_term", "category": "imagery", "analysis": "Visual metaphor suggesting upward movement/aspiration", "example_usage": "Thothokiso ea 'Maikutlo a Ka'"}
+{"prompt": "Mahlabatheng", "completion": "Tulo e batalletseng e sa meleng letho/lehwatata", "type": "literary_term", "category": "setting", "analysis": "Desolate space symbolizing isolation", "cultural_context": "Basotho landscape descriptions"}
+{"prompt": "Diolo", "completion": "Ke ntlo ya bohlwa.", "type": "proverb", "category": "metaphor", "meaning": "Represents hidden dangers beneath pleasant appearances", "equivalent": "Wolf in sheep's clothing"}
+{"prompt": "Ho namola", "completion": "Ho kena dipakeng.", "type": "idiom", "category": "conflict", "usage": "Describes mediation or interference in disputes", "context": "Traditional dispute resolution"}
+{"prompt": "Bahale", "completion": "Masole a ntwa", "type": "character_type", "category": "archetype", "traits": ["bravery", "skill"], "common_in": "Historical praise poetry"}
+{"prompt": "Kgomo e wetse", "completion": "Bothata bo teng", "type": "proverb", "category": "warning", "literal_translation": "Where the cow lies down, there's a problem", "application": "Advising caution in familiar places"}
+{"prompt": "Menyaka", "completion": "Tse monate, tse thabisang", "type": "literary_term", "category": "theme", "frequency": "Common in wedding songs", "opposite": "Dilomelo"}
+{"prompt": "Seilatsatsi", "completion": "Morwetsana/mosadi e motle haholo kapa ya botle ba tshomong.", "type": "descriptive_term", "category": "character_description", "literal": "Sun-like woman", "figurative": "Woman of extraordinary beauty", "cultural_context": "Used in praise poetry (lithoko)"}
+{"prompt": "E ne e le kgoboso", "completion": "Ho nyenyefatsa", "type": "descriptive_phrase", "category": "action", "meaning": "it was a sudden rush (to belittle)", "speed": "abrupt", "intention": "diminishing others", "social_context": "conflict", "emotional_impact": "demeaning", "physical_metaphor": "sudden movement"}
+
+{"prompt": "Ke re se tlilo otla mapate", "completion": "Ho otlela sehong/ka nako e le nngwe", "type": "idiom", "category": "timing", "meaning": "I say let's not hit the palms (do it unexpectedly/at once)", "strategy": "surprise", "execution": "single action", "context": "planning", "effectiveness": "element of surprise"}
+
+{"prompt": "Ho se kgwele thekeng", "completion": "A tsotse/a le feela", "type": "descriptive_phrase", "category": "state", "meaning": "not rolling in the wagon (being still/alone)", "mobility": "static", "social_state": "isolated", "visual": "unmoving object", "emotional_state": "possibly lonely"}
+
+{"prompt": "Ba tla mo kgabisa ka dipetja", "completion": "Mahlaahlela", "type": "verb_phrase", "category": "social_action", "meaning": "they will adorn him with stones (criticize harshly)", "social_punishment": "collective criticism", "intensity": "severe", "material_metaphor": "stones as words", "public_nature": "group condemnation"}
+
+{"prompt": "Ho suma ka dinko", "completion": "O hemela hodimo ke kgalefo", "type": "descriptive_phrase", "category": "emotional_expression", "meaning": "to snort through nostrils (one breathes heavily from anger)", "physical_sign": "angry breathing", "emotion": "rage", "body_focus": "nasal expression", "intensity": "high"}
+
+{"prompt": "Ha ngwale e kgiba", "completion": "Ho bona mohlolo/seo o neng o sa se lebella", "type": "idiom", "category": "discovery", "meaning": "when the crocodile surfaces (to witness a miracle/unexpected thing)", "surprise_level": "extreme", "rarity": "uncommon", "visual": "aquatic metaphor", "cultural_significance": "awe-inspiring events"}
+{"prompt": "A boela hae a balabala ka pelo", "completion": "A ingamangama/belaela", "type": "descriptive_phrase", "category": "emotional_state", "meaning": "he returns home with a troubled heart", "emotional_quality": ["anxious", "worried"], "physical_manifestation": "restlessness", "intensity": "moderate", "context": "homecoming after distress", "body_reference": "heart as emotional center"}
+
+{"prompt": "A be se a itshela ka dikgapha", "completion": "A lla", "type": "verb_phrase", "category": "expression", "meaning": "he doesn't hide his tears (he cries openly)", "emotional_expression": "unrestrained weeping", "social_norm": "breaking masculine stoicism", "sound_level": "audible", "context": "moments of deep grief"}
+
+{"prompt": "A se ntsha hloohong", "completion": "A lla haholo a hoeleditse", "type": "idiom", "category": "emotional_expression", "meaning": "he can't get it out of his head (he cries intensely while remembering)", "memory_effect": "persistent recollection", "emotional_intensity": "overwhelming", "physical_response": "uncontrollable crying", "trauma_indicator": true}
+
+{"prompt": "Taba ke kidibitla", "completion": "Taba e kgolo", "type": "metaphor", "category": "significance", "meaning": "the matter is a deep hole (a serious/important matter)", "importance_level": "high", "complexity": "multilayered", "visual_metaphor": "depth as significance", "resolution_difficulty": "challenging", "context": "serious discussions"}
+
+{"prompt": "Sehou", "completion": "Pina e lerata ya banna ba binang mmoho.", "type": "musical_form", "category": "traditional_song", "performance_context": "Male group performances", "characteristics": ["Call-and-response", "Strong rhythms"]}
+
+{"prompt": "Mokorotlo", "completion": "Pina ya banna e binelwang fatshe, ho tiisitswe dikodu eka ho a korotlwa.", "type": "musical_form", "category": "cultural_song", "significance": "National Basotho anthem form", "movement": "Circular dance with stomping"}
+
+{"prompt": "Dioka", "completion": "Dikgomo/dipholo tse tiileng, tse shahlileng.", "type": "descriptive_term", "category": "livestock_imagery", "symbolism": "Strength and resilience", "common_usage": "Praise poetry for warriors"}
+
+{"prompt": "Bopa", "completion": "Ho shata kapa ho hana ka manganga o bile o tiisitse sefahleho.", "type": "verb", "category": "facial_expression", "social_context": "Used in conflict situations", "nonverbal_meaning": "Defiant rejection"}
+
+{"prompt": "Kwebana", "completion": "Ho lwantshana ha dipoho/dikgomo ha di hlabana ka manaka.", "type": "descriptive_term", "category": "animal_behavior", "extended_meaning": "Metaphor for human conflicts", "proverbial_use": "Describing stubborn disputes"}
+
+{"prompt": "Phenama", "completion": "Ho tlala haholo/ho tlala tswete!", "type": "verb", "category": "state_of_being", "intensity": "Extreme fullness", "contexts": ["Feasting", "Agricultural abundance"]}
+
+{"prompt": "Marole", "completion": "Manamane a nang le selemo.", "type": "descriptive_term", "category": "livestock_description", "characteristics": ["Young animals", "With fat deposits"], "cultural_value": "Sign of wealth"}
+
+{"prompt": "Manaila", "completion": "Mmala o nang le bosweu maotong a phoofolo haholoholo dipere.", "type": "descriptive_term", "category": "animal_markings", "specificity": "Distinctive white leg markings", "breeding_value": "Highly prized trait"}
+
+{"prompt": "Mehoke", "completion": "Poho ya pere e tiileng.", "type": "compound_term", "category": "livestock_metaphor", "components": ["Poho (bull)", "Pere (horse)"], "symbolic_meaning": "Hybrid vigor/exceptional strength"}
+{"prompt": "Nala", "completion": "Kgora/ho ngatafala ha dijo.", "type": "verb", "category": "state_of_being", "meaning": "to be satiated with food", "intensity": "complete fullness", "contexts": ["eating", "feasting"]}
+{"prompt": "Mehopolo e kgelekgetheha", "completion": "Mehopolo e farasitseng", "type": "noun_phrase", "category": "cognitive_state", "meaning": "scattered thoughts (thoughts that have spread out)", "mental_state": "unfocused", "concentration_level": "low", "thought_organization": "disordered", "visual_metaphor": "seeds scattering", "context": "stress or distraction"}
+
+{"prompt": "O ntjwetsa ditsiebadimo", "completion": "O ntjhetsa ntho tse se nang thuso", "type": "verb_phrase", "category": "communication", "meaning": "you're feeding me heavenly insects (giving me useless things)", "metaphorical_language": "insects as worthless items", "communication_quality": "unhelpful", "frustration_level": "high", "social_context": "disappointing exchanges", "cultural_reference": "insect symbolism"}
+
+{"prompt": "Ho komakoma", "completion": "Ho ingamangama, ho bua ka pelo", "type": "verb", "category": "speech_pattern", "meaning": "to murmur anxiously, to speak from the heart", "speech_style": "emotional", "volume": "low", "emotional_state": ["anxious", "sincere"], "body_reference": "heart as truth source", "communication_context": "intimate conversations"}
+{"prompt": "Makgoba", "completion": "Batho ba buswang ke ba bang, ba hatelletswe, ba amohuwe ditokelo tsa bona.", "type": "noun", "category": "social_status", "meaning": "oppressed people", "characteristics": ["under control of others", "deprived of rights"], "social_context": "historical or systemic oppression"}
+{"prompt": "A re thinkgwi!", "completion": "A tjeka a potlakile.", "type": "exclamation", "category": "movement", "meaning": "moving quickly", "speed": "rapid", "context": "urgent movement", "tone": "excited/alarmed"}
+
+{"prompt": "Bukeng eo a e shwatoloditseng", "completion": "Ho nka ka mahahapa/ka kgang.", "type": "verb_phrase", "category": "action", "meaning": "to take by force/abruptly", "method": "forceful", "context": "sudden acquisition", "connotation": "aggressive"}
+
+{"prompt": "A hwanta", "completion": "Ho tsamaya ka pele.", "type": "verb", "category": "movement", "meaning": "to walk ahead", "position": "leading", "pace": "normal", "social_context": "group movement"}
+
+{"prompt": "Ba qhwaolotse kobo sehwele", "completion": "Ba iketille.", "type": "idiom", "category": "preparation", "meaning": "they have prepared themselves", "literal": "rolled up their sleeves", "readiness": "fully prepared", "context": "facing challenges"}
+
+{"prompt": "A ba jwetsa masaakokometse", "completion": "Taba tse thata/komela.", "type": "verb_phrase", "category": "communication", "meaning": "telling them difficult matters", "content": "hard truths", "delivery": "direct", "effect": "sobering"}
+
+{"prompt": "Tau di mesana", "completion": "Batho ba basadi.", "type": "metaphor", "category": "gender_reference", "meaning": "women (literally: female lions)", "symbolism": "strength", "cultural_context": "praise reference", "connotation": "positive"}
+
+{"prompt": "Ba qobokisana", "completion": "Ba lelekisana le ntse le ya kwana le kwana.", "type": "verb", "category": "interaction", "meaning": "chasing each other around", "motion": "circular", "intensity": "playful/competitive", "context": "games/conflict"}
+
+{"prompt": "Ngwaholakola", "completion": "Selemo se ka pele ho se fetileng.", "type": "temporal_reference", "category": "time", "meaning": "the year before last", "timeframe": "two years prior", "precision": "specific", "usage": "historical reference"}
+{"prompt": "Mthwaela", "completion": "Batho ba seng bangata/ba mmalwa.", "type": "noun", "category": "group_dynamics", "meaning": "small number of people", "numerical_quality": "few", "contexts": ["gatherings", "population descriptions"]}
