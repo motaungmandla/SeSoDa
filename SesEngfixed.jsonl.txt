@@ -1,0 +1,823 @@
+{"prompt":"Sesotho: Hobaneng?\nEnglish:", "completion":"Why?"}
+{"prompt":"Sesotho: hoetla\nEnglish:", "completion":"autumn"}
+{"prompt":"Sesotho: hole\nEnglish:", "completion":"far"}
+{"prompt":"Sesotho: holimo\nEnglish:", "completion":"1: above\n2: at the top"}
+{"prompt":"Sesotho: ho holela (tse)\nEnglish:", "completion":"to grow up for"}
+{"prompt":"Sesotho: hona joale\nEnglish:", "completion":"now"}
+{"prompt":"Sesotho: ka hoo\nEnglish:", "completion":"as such"}
+{"prompt":"Sesotho: ho hopola (tse)\nEnglish:", "completion":"to remember"}
+{"prompt":"Sesotho: hora (lihora)\nEnglish:", "completion":"hour"}
+{"prompt":"Sesotho: hosane\nEnglish:", "completion":"tomorrow"}
+{"prompt":"Sesotho: hosasa\nEnglish:", "completion":"tomorrow"}
+{"prompt":"Sesotho: hoseng\nEnglish:", "completion":"morning"}
+{"prompt":"Sesotho: ho icheba (ile)\nEnglish:", "completion":"to look at oneself"}
+{"prompt":"Sesotho: ho ikela (tse)\nEnglish:", "completion":"to go oneself"}
+{"prompt":"Sesotho: ho iketsa (ntse)\nEnglish:", "completion":"to make oneself"}
+{"prompt":"Sesotho: ho ipata (ile)\nEnglish:", "completion":"to hide oneself"}
+{"prompt":"Sesotho: ho iphuanela (tse)\nEnglish:", "completion":"to find for oneself"}
+{"prompt":"Sesotho: ho ipona (e)\nEnglish:", "completion":"to see oneself"}
+{"prompt":"Sesotho: ho ipotsa (itse)\nEnglish:", "completion":"to ask oneself"}
+{"prompt":"Sesotho: ho ithutha (ile)\nEnglish:", "completion":"to learn"}
+{"prompt":"Sesotho: ho itlhoka (ile)\nEnglish:", "completion":"to need oneself"}
+{"prompt":"Sesotho: ho ja (ele)\nEnglish:", "completion":"to eat"}
+{"prompt":"Sesotho: ho jaefa (ile)\nEnglish:", "completion":"to dance"}
+{"prompt":"Sesotho: jarete (lijarete)\nEnglish:", "completion":"garden"}
+{"prompt":"Sesotho: joala (majoala)\nEnglish:", "completion":"beer"}
+{"prompt":"Sesotho: joale\nEnglish:", "completion":"1: so\n2: well"}
+{"prompt":"Sesotho: joalo\nEnglish:", "completion":"1: so\n2: as such\nPhrase: ho joalo \"it is so\""}
+{"prompt":"Sesotho: joang (majoang)\nEnglish:", "completion":"grass"}
+{"prompt":"Sesotho: Joang?\nEnglish:", "completion":"How?\nVariation: joang kapa joang \"however which way\""}
+{"prompt":"Sesotho: ho joetsa (itse)\nEnglish:", "completion":"to tell"}
+{"prompt":"Sesotho: junifesithi (lijunifesithi)\nEnglish:", "completion":"university"}
+{"prompt":"Sesotho: ka\nEnglish:", "completion":"1: about\n2: by\n3: at\n4: mine"}
+{"prompt":"Sesotho: ka baka la\nEnglish:", "completion":"in order to"}
+{"prompt":"Sesotho: ka bomalimabe\nEnglish:", "completion":"unfortunately"}
+{"prompt":"Sesotho: Kae?\nEnglish:", "completion":"Where?\nVariation: kae kapa kae \"wherever\""}
+{"prompt":"Sesotho: kahare ho\nEnglish:", "completion":"inside of"}
+{"prompt":"Sesotho: kahohle\nEnglish:", "completion":"everywhere"}
+{"prompt":"Sesotho: kaholimo\nEnglish:", "completion":"1: above\n2: at the top"}
+{"prompt":"Sesotho: kajeno\nEnglish:", "completion":"today"}
+{"prompt":"Sesotho: kamehla\nEnglish:", "completion":"always"}
+{"prompt":"Sesotho: kamoo ... kateng\nEnglish:", "completion":"as...\nExample: kamoo ke itseng kateng \"as I said\""}
+{"prompt":"Sesotho: kamorao\nEnglish:", "completion":"1: later\n2: after\n3: behind"}
+{"prompt":"Sesotho: kamore (likamore)\nEnglish:", "completion":"room"}
+{"prompt":"Sesotho: ka nako e 'ngoe\nEnglish:", "completion":"sometimes"}
+{"prompt":"Sesotho: ka 'nete\nEnglish:", "completion":"1: seriously\n2: in truth"}
+{"prompt":"Sesotho: ka nqane\nEnglish:", "completion":"beyond"}
+{"prompt":"Sesotho: kantle\nEnglish:", "completion":"outdoors"}
+{"prompt":"Sesotho: ka ntle ho\nEnglish:", "completion":"without"}
+{"prompt":"Sesotho: kaofela\nEnglish:", "completion":"1: everything\n2: everyone"}
+{"prompt":"Sesotho: kapa\nEnglish:", "completion":"or"}
+{"prompt":"Sesotho: habeli\nEnglish:", "completion":"twice"}
+{"prompt":"Sesotho: hae\nEnglish:", "completion":"1: his/her\n2: home"}
+{"prompt":"Sesotho: haeno\nEnglish:", "completion":"your place of origin"}
+{"prompt":"Sesotho: haeso\nEnglish:", "completion":"my place of origin"}
+{"prompt":"Sesotho: ho haha (ile)\nEnglish:", "completion":"to build"}
+{"prompt":"Sesotho: hababo\nEnglish:", "completion":"his/her place of origin"}
+{"prompt":"Sesotho: hababo bona\nEnglish:", "completion":"their place of origin"}
+{"prompt":"Sesotho: hababo lona\nEnglish:", "completion":"your (you all) place of origin"}
+{"prompt":"Sesotho: hababo rona\nEnglish:", "completion":"our place of origin"}
+{"prompt":"Sesotho: hahlano\nEnglish:", "completion":"five times"}
+{"prompt":"Sesotho: haholo\nEnglish:", "completion":"1: very\n2: a lot"}
+{"prompt":"Sesotho: hamanate\nEnglish:", "completion":"just fine"}
+{"prompt":"Sesotho: hampe\nEnglish:", "completion":"poorly"}
+{"prompt":"Sesotho: ho hana (ne)\nEnglish:", "completion":"to refuse"}
+{"prompt":"Sesotho: hane\nEnglish:", "completion":"four times"}
+{"prompt":"Sesotho: ho hanela (tse)\nEnglish:", "completion":"to forbid"}
+{"prompt":"Sesotho: hang, hanngoe\nEnglish:", "completion":"once"}
+{"prompt":"Sesotho: hangata\nEnglish:", "completion":"often"}
+{"prompt":"Sesotho: hang hang\nEnglish:", "completion":"at once"}
+{"prompt":"Sesotho: hantle\nEnglish:", "completion":"well"}
+{"prompt":"Sesotho: hanyane\nEnglish:", "completion":"1: not much\n2: a little"}
+{"prompt":"Sesotho: hanyanese (lihanyanese)\nEnglish:", "completion":"onion"}
+{"prompt":"Sesotho: hao\nEnglish:", "completion":"your"}
+{"prompt":"Sesotho: hape\nEnglish:", "completion":"again"}
+{"prompt":"Sesotho: ka har'a\nEnglish:", "completion":"1: among\n2: within"}
+{"prompt":"Sesotho: hararo\nEnglish:", "completion":"three times"}
+{"prompt":"Sesotho: hase\nEnglish:", "completion":"(it is, they are) not"}
+{"prompt":"Sesotho: ho hatsela (tse)\nEnglish:", "completion":"to be cold\nExample: Ke hatsetse. \"I'm cold.\""}
+{"prompt":"Sesotho: haufinyane\nEnglish:", "completion":"1: near\n2: soon"}
+{"prompt":"Sesotho: hlabula\nEnglish:", "completion":"summer"}
+{"prompt":"Sesotho: ho hlaha (ile)\nEnglish:", "completion":"to be born"}
+{"prompt":"Sesotho: ho hlahela (tse)\nEnglish:", "completion":"to be born for"}
+{"prompt":"Sesotho: ho hlahlama (ile)\nEnglish:", "completion":"1: to follow\n2: to succeed"}
+{"prompt":"Sesotho: hlahlobo (lihlahlobo)\nEnglish:", "completion":"exam"}
+{"prompt":"Sesotho: ho hlalosa (itse)\nEnglish:", "completion":"to describe"}
+{"prompt":"Sesotho: ho hlalosetsa (litse)\nEnglish:", "completion":"to describe for"}
+{"prompt":"Sesotho: hlano (-hlano)\nEnglish:", "completion":"five"}
+{"prompt":"Sesotho: ho hlapha (ile)\nEnglish:", "completion":"to bathe"}
+{"prompt":"Sesotho: ho hlatsa (itse)\nEnglish:", "completion":"to vomit"}
+{"prompt":"Sesotho: ho hlatsoa (itse)\nEnglish:", "completion":"1: to clean\n2: to wash"}
+{"prompt":"Sesotho: hle\nEnglish:", "completion":"please"}
+{"prompt":"Sesotho: hloho (lihloho)\nEnglish:", "completion":"head"}
+{"prompt":"Sesotho: ho hloka (ile)\nEnglish:", "completion":"to need"}
+{"prompt":"Sesotho: hlokahala (etse)\nEnglish:", "completion":"to die (person)"}
+{"prompt":"Sesotho: ho hlokana (e)\nEnglish:", "completion":"to need one another"}
+{"prompt":"Sesotho: ho hlokeha (ile)\nEnglish:", "completion":"to be needed"}
+{"prompt":"Sesotho: ho hlokela (tse)\nEnglish:", "completion":"1: to need for\n2: to not have for"}
+{"prompt":"Sesotho: ho hlokisetsa (litse)\nEnglish:", "completion":"to cause to need for"}
+{"prompt":"Sesotho: ho hlokoa (iloe)\nEnglish:", "completion":"to be needed"}
+{"prompt":"Sesotho: ho hlola (ile)\nEnglish:", "completion":"to create"}
+{"prompt":"Sesotho: ho hlola (tse)\nEnglish:", "completion":"to win"}
+{"prompt":"Sesotho: ho hloloheloa (tsoe)\nEnglish:", "completion":"to miss\nExample: Ke mo hlolohetsoe. \"I miss him.\""}
+{"prompt":"Sesotho: ho hlompha (ile)\nEnglish:", "completion":"to respect"}
+{"prompt":"Sesotho: ho hang\nEnglish:", "completion":"not at all"}
+{"prompt":"Sesotho: ho hlokisa (itse)\nEnglish:", "completion":"to deprive"}
+{"prompt":"Sesotho: hobane\nEnglish:", "completion":"because"}
+{"prompt":"Sesotho: ho emela (tse)\nEnglish:", "completion":"to wait for\nExample: Ke emetse. \"I'm waiting for.\""}
+{"prompt":"Sesotho: ho emisa (itse)\nEnglish:", "completion":"to stop (to cause something to stop)"}
+{"prompt":"Sesotho: empa\nEnglish:", "completion":"but"}
+{"prompt":"Sesotho: Eng?\nEnglish:", "completion":"What? ('ng, if preceded by -e, -a. e.g. ke eng = ke'ng?)\nVariation: eng kapa eng \"whatever\""}
+{"prompt":"Sesotho: eno(-no)\nEnglish:", "completion":"that (NC1,2,7)"}
+{"prompt":"Sesotho: enoa\nEnglish:", "completion":"this (NC1,2)"}
+{"prompt":"Sesotho: eo\nEnglish:", "completion":"that (NC1,2,3,7)"}
+{"prompt":"Sesotho: eona\nEnglish:", "completion":"1: it (NC7)\n2: they (NC3)"}
+{"prompt":"Sesotho: eseng\nEnglish:", "completion":"(it is, they are) not"}
+{"prompt":"Sesotho: e-s'o\nEnglish:", "completion":"yet\nExample: Ha ke e-s'o bue. \"I have not yet spoken.\""}
+{"prompt":"Sesotho: ho etsa (ntse)\nEnglish:", "completion":"1: to do\n2: to make"}
+{"prompt":"Sesotho: ho etsahala (etse)\nEnglish:", "completion":"1: to become done\n2: to become made"}
+{"prompt":"Sesotho: ho etsana (e)\nEnglish:", "completion":"to do to one another"}
+{"prompt":"Sesotho: ho etsisa (itse)\nEnglish:", "completion":"1: to cause to do\n2: to cause to make"}
+{"prompt":"Sesotho: ho etsolla (otse)\nEnglish:", "completion":"1: to undo\n2: to unmake"}
+{"prompt":"Sesotho: ho fa (ile)\nEnglish:", "completion":"to give"}
+{"prompt":"Sesotho: fane (lifane)\nEnglish:", "completion":"surname"}
+{"prompt":"Sesotho: ho fanolla (otse)\nEnglish:", "completion":"to take back"}
+{"prompt":"Sesotho: ho fapana (e)\nEnglish:", "completion":"to be different"}
+{"prompt":"Sesotho: fariki (lifariki)\nEnglish:", "completion":"pig"}
+{"prompt":"Sesotho: ho fasa (itse)\nEnglish:", "completion":"to tie up"}
+{"prompt":"Sesotho: ho fasolla (otse)\nEnglish:", "completion":"to untie"}
+{"prompt":"Sesotho: fatše\nEnglish:", "completion":"1: ground\n2: floor"}
+{"prompt":"Sesotho: feela\nEnglish:", "completion":"only"}
+{"prompt":"Sesotho: ho fela (ile)\nEnglish:", "completion":"1: to finish\n2: to be gone\nExample: E felile. \"It is finished.\""}
+{"prompt":"Sesotho: ho felisa (itse)\nEnglish:", "completion":"to cause to end"}
+{"prompt":"Sesotho: fenstere (lifenstere)\nEnglish:", "completion":"window"}
+{"prompt":"Sesotho: ho ferekana (e)\nEnglish:", "completion":"to be confused"}
+{"prompt":"Sesotho: fereko (lifereko)\nEnglish:", "completion":"fork"}
+{"prompt":"Sesotho: ho feta (ile)\nEnglish:", "completion":"to pass"}
+{"prompt":"Sesotho: ho feta ho\nEnglish:", "completion":"more than"}
+{"prompt":"Sesotho: ho fetola (tse)\nEnglish:", "completion":"to change"}
+{"prompt":"Sesotho: ho fiela (tse)\nEnglish:", "completion":"to sweep"}
+{"prompt":"Sesotho: ho fihla (ile)\nEnglish:", "completion":"to arrive"}
+{"prompt":"Sesotho: ho fofa (ile)\nEnglish:", "completion":"to fly"}
+{"prompt":"Sesotho: ho fokola (tse)\nEnglish:", "completion":"to be weak\nExample: Ke fokotse. \"I'm weak.\""}
+{"prompt":"Sesotho: ho fola (ile)\nEnglish:", "completion":"to recover from illness\nExample: Ke folile. \"I've recovered.\""}
+{"prompt":"Sesotho: ho fosa (itse)\nEnglish:", "completion":"to be wrong\nExample: Ke fositse. \"I'm incorrect.\""}
+{"prompt":"Sesotho: founo (lifouno)\nEnglish:", "completion":"phone"}
+{"prompt":"Sesotho: ho fula (tse)\nEnglish:", "completion":"to graze"}
+{"prompt":"Sesotho: ho fumana (e)\nEnglish:", "completion":"to find"}
+{"prompt":"Sesotho: ho fumaneha (ile)\nEnglish:", "completion":"1: to be poor\nExample: Ke fumanehile. \"I'm poor.\"\n2: to be found"}
+{"prompt":"Sesotho: furu\nEnglish:", "completion":"forage"}
+{"prompt":"Sesotho: ho futhumala (etse)\nEnglish:", "completion":"to be warm\nExample: Ho futhumetse. \"It's warm.\""}
+{"prompt":"Sesotho: bokae\nEnglish:", "completion":"how many\nExample: Ke bokae? \"How much is it?\""}
+{"prompt":"Sesotho: ho bolaea (ile)\nEnglish:", "completion":"to kill"}
+{"prompt":"Sesotho: ho bolela (tse)\nEnglish:", "completion":"to mean"}
+{"prompt":"Sesotho: bolo (libolo)\nEnglish:", "completion":"ball"}
+{"prompt":"Sesotho: ho boloka (ile)\nEnglish:", "completion":"to watch over"}
+{"prompt":"Sesotho: ka bomalimabe\nEnglish:", "completion":"unfortunately"}
+{"prompt":"Sesotho: ho bona (e)\nEnglish:", "completion":"to see"}
+{"prompt":"Sesotho: bona\nEnglish:", "completion":"1: them\n2: their\n3: this (NC6)\n4: it (NC6)"}
+{"prompt":"Sesotho: ho bonahala (etse)\nEnglish:", "completion":"to become visible"}
+{"prompt":"Sesotho: ho bonana (e)\nEnglish:", "completion":"to see one another"}
+{"prompt":"Sesotho: bone\nEnglish:", "completion":"fourth"}
+{"prompt":"Sesotho: bono(-no)\nEnglish:", "completion":"that (NC6)"}
+{"prompt":"Sesotho: bonolo\nEnglish:", "completion":"1: easy\n2: soft\n3: smart"}
+{"prompt":"Sesotho: ho bontša (itse)\nEnglish:", "completion":"to show"}
+{"prompt":"Sesotho: bonyane\nEnglish:", "completion":"1: at least\n2: smallness\n3: youngness"}
+{"prompt":"Sesotho: boo\nEnglish:", "completion":"that (NC6)"}
+{"prompt":"Sesotho: bophelo (maphelo)\nEnglish:", "completion":"1: life\n2: health"}
+{"prompt":"Sesotho: boraro\nEnglish:", "completion":"third"}
+{"prompt":"Sesotho: borikhoe (marikhoe)\nEnglish:", "completion":"pants"}
+{"prompt":"Sesotho: boriki (mariki)\nEnglish:", "completion":"brake"}
+{"prompt":"Sesotho: boroba meno e 'meli\nEnglish:", "completion":"eighth"}
+{"prompt":"Sesotho: boroba mono o le mong\nEnglish:", "completion":"ninth"}
+{"prompt":"Sesotho: borokho (marokho)\nEnglish:", "completion":"bridge"}
+{"prompt":"Sesotho: bosiu (masiu)\nEnglish:", "completion":"night"}
+{"prompt":"Sesotho: ho bososela (tse)\nEnglish:", "completion":"to smile"}
+{"prompt":"Sesotho: bosupa\nEnglish:", "completion":"seventh"}
+{"prompt":"Sesotho: bothata (mathata)\nEnglish:", "completion":"problem"}
+{"prompt":"Sesotho: ho botsa (itse)\nEnglish:", "completion":"to ask"}
+{"prompt":"Sesotho: botšelela\nEnglish:", "completion":"sixth"}
+{"prompt":"Sesotho: ho bua (ile)\nEnglish:", "completion":"to speak"}
+{"prompt":"Sesotho: ho bula (tse)\nEnglish:", "completion":"to open"}
+{"prompt":"Sesotho: ho buisana (e)\nEnglish:", "completion":"to converse"}
+{"prompt":"Sesotho: buka (libuka)\nEnglish:", "completion":"book"}
+{"prompt":"Sesotho: ho busa (itse)\nEnglish:", "completion":"to govern"}
+{"prompt":"Sesotho: ho busetsa (litse)\nEnglish:", "completion":"to govern for"}
+{"prompt":"Sesotho: butle\nEnglish:", "completion":"slowly"}
+{"prompt":"Sesotho: ho chaba (ile)\nEnglish:", "completion":"to rise (esp. the sun)"}
+{"prompt":"Sesotho: ho chakela (tse)\nEnglish:", "completion":"to visit something\nExample: Ke chaketse. \"I'm visiting.\""}
+{"prompt":"Sesotho: chelete (lichelete)\nEnglish:", "completion":"money"}
+{"prompt":"Sesotho: ho chesa (itse)\nEnglish:", "completion":"1: to burn\n2: to be hot"}
+{"prompt":"Sesotho: ho ea (ile)\nEnglish:", "completion":"to go"}
+{"prompt":"Sesotho: eane\nEnglish:", "completion":"that way over there (NC1,2,7)"}
+{"prompt":"Sesotho: ebe\nEnglish:", "completion":"maybe"}
+{"prompt":"Sesotho: ebile\nEnglish:", "completion":"moreover"}
+{"prompt":"Sesotho: eeane\nEnglish:", "completion":"those way over there (NC3)"}
+{"prompt":"Sesotho: eena\nEnglish:", "completion":"1: him/her\n2: these (NC3)"}
+{"prompt":"Sesotho: eeno(-no)\nEnglish:", "completion":"those (NC3)"}
+{"prompt":"Sesotho: ekaba\nEnglish:", "completion":"perhaps"}
+{"prompt":"Sesotho: ho ema (e)\nEnglish:", "completion":"1: to stand\n2: to wait"}
+{"prompt": "E", "completion": "Yes/No", "category": "basic_responses", "context": "Informal agreement/disagreement"}
+{"prompt":"Sesotho: abuti (bo-)\nEnglish:", "completion":"brother"}
+{"prompt":"Sesotho: ak'u\nEnglish:", "completion":"auxiliary verb used in polite commands"}
+{"prompt":"Sesotho: ho amohela (tse)\nEnglish:", "completion":"to welcome"}
+{"prompt":"Sesotho: ana\nEnglish:", "completion":"these (NC4,6)"}
+{"prompt":"Sesotho: ane\nEnglish:", "completion":"those way over there (NC4,6)"}
+{"prompt":"Sesotho: ano(-no)\nEnglish:", "completion":"those (NC4,6)"}
+{"prompt":"Sesotho: ao\nEnglish:", "completion":"those (NC4,6)"}
+{"prompt":"Sesotho: ho apara (ere)\nEnglish:", "completion":"to wear (dress, pants, shirt)\nExample: Ke apere hempe. \"I'm wearing a shirt.\""}
+{"prompt":"Sesotho: ho apole (liapole)\nEnglish:", "completion":"apple"}
+{"prompt":"Sesotho: ho araba (ile)\nEnglish:", "completion":"to answer"}
+{"prompt":"Sesotho: ho arola (tse)\nEnglish:", "completion":"to share"}
+{"prompt":"Sesotho: ho atleha (ile)\nEnglish:", "completion":"to succeed"}
+{"prompt":"Sesotho: ausi (bo-)\nEnglish:", "completion":"sister"}
+{"prompt":"Sesotho: ho ba (ile)\nEnglish:", "completion":"to be"}
+{"prompt":"Sesotho: ka baka la\nEnglish:", "completion":"in order to"}
+{"prompt":"Sesotho: bakeng sa\nEnglish:", "completion":"for (to be followed by possessive pronoun)"}
+{"prompt":"Sesotho: ho bala (ile)\nEnglish:", "completion":"to read"}
+{"prompt":"Sesotho: ho baleha (ile)\nEnglish:", "completion":"to flee"}
+{"prompt":"Sesotho: bana\nEnglish:", "completion":"these (NC1,2)"}
+{"prompt":"Sesotho: bane\nEnglish:", "completion":"1: those way over there (NC1,2)\n2: that way over there (NC6)"}
+{"prompt":"Sesotho: bano(-no)\nEnglish:", "completion":"those (NC1,2)"}
+{"prompt":"Sesotho: bao\nEnglish:", "completion":"those (NC1,2)"}
+{"prompt":"Sesotho: bapala (ile)\nEnglish:", "completion":"to play"}
+{"prompt":"Sesotho: ho batla (ile)\nEnglish:", "completion":"to want"}
+{"prompt":"Sesotho: ho bea (ile)\nEnglish:", "completion":"1: to put\n2: to place"}
+{"prompt":"Sesotho: beke (libeke)\nEnglish:", "completion":"week"}
+{"prompt":"Sesotho: ho belaela (tse)\nEnglish:", "completion":"to complain"}
+{"prompt":"Sesotho: bese (libese)\nEnglish:", "completion":"bus"}
+{"prompt":"Sesotho: bete (libete)\nEnglish:", "completion":"bed"}
+{"prompt":"Sesotho: ho bina (ne)\nEnglish:", "completion":"to sing"}
+{"prompt":"Sesotho: ho bitsa (itse)\nEnglish:", "completion":"to call"}
+{"prompt":"Sesotho: bobebe\nEnglish:", "completion":"1: light (i.e. not heavy)\n2: lightness"}
+{"prompt":"Sesotho: bobeli\nEnglish:", "completion":"1: second\n2: both"}
+{"prompt":"Sesotho: bofofu\nEnglish:", "completion":"blindness"}
+{"prompt":"Sesotho: bohlale\nEnglish:", "completion":"1: smart\n2: intelligence"}
+{"prompt":"Sesotho: bohlano\nEnglish:", "completion":"fifth"}
+{"prompt":"Sesotho: bohlasoa\nEnglish:", "completion":"untidy"}
+{"prompt":"Sesotho: bohlokoa\nEnglish:", "completion":"important"}
+{"prompt":"Sesotho: bohobe (mahobe)\nEnglish:", "completion":"bread"}
+{"prompt":"Sesotho: boholo\nEnglish:", "completion":"1: at the most\n2: bigness\n3: oldness"}
+{"prompt":"Sesotho: boikarabelo (maikarabelo)\nEnglish:", "completion":"responsibility"}
+{"prompt":"Sesotho: boima\nEnglish:", "completion":"1: heavy\n2: heaviness"}
+
+{"prompt": "Translate to Sesotho: to marry (for men)", "completion": "ho nyala (etse) (Ke nyetse. \"I'm married.\")"}
+{"prompt": "Translate to English: ho nyala (etse)", "completion": "to marry (for men)"}
+{"prompt": "Translate to Sesotho: match", "completion": "mollo (mello)"}
+{"prompt": "Translate to English: mollo (mello)", "completion": "match"}
+{"prompt": "Translate to Sesotho: May", "completion": "Motšeanong"}
+{"prompt": "Translate to English: Motšeanong", "completion": "May"}
+{"prompt": "Translate to Sesotho: maybe (1)", "completion": "ebe"}
+{"prompt": "Translate to Sesotho: maybe (2)", "completion": "mohlomong"}
+{"prompt": "Translate to English: ebe", "completion": "maybe"}
+{"prompt": "Translate to English: mohlomong", "completion": "maybe"}
+{"prompt": "Translate to Sesotho: me", "completion": "'na"}
+{"prompt": "Translate to English: 'na", "completion": "me"}
+{"prompt": "Translate to Sesotho: to mean", "completion": "ho bolela (tse)"}
+{"prompt": "Translate to English: ho bolela (tse)", "completion": "to mean"}
+{"prompt": "Translate to Sesotho: meaning", "completion": "polelo (lipolelo)"}
+{"prompt": "Translate to English: polelo (lipolelo)", "completion": "meaning"}
+{"prompt": "Translate to Sesotho: meat", "completion": "nama (linama)"}
+{"prompt": "Translate to English: nama (linama)", "completion": "meat"}
+{"prompt": "Translate to Sesotho: medicine", "completion": "moriana (meriana)"}
+{"prompt": "Translate to English: moriana (meriana)", "completion": "medicine"}
+{"prompt": "Translate to Sesotho: to meet up", "completion": "ho kopana (e)"}
+{"prompt": "Translate to English: ho kopana (e)", "completion": "to meet up"}
+{"prompt": "Translate to Sesotho: meeting (1)", "completion": "phutheo (liphutheo)"}
+{"prompt": "Translate to Sesotho: meeting (2)", "completion": "seboka (liboka)"}
+{"prompt": "Translate to English: phutheo (liphutheo)", "completion": "meeting"}
+{"prompt": "Translate to English: seboka (liboka)", "completion": "meeting"}
+{"prompt": "Translate to Sesotho: message", "completion": "molaetsa (melaetsa)"}
+{"prompt": "Translate to English: molaetsa (melaetsa)", "completion": "message"}
+{"prompt": "Translate to Sesotho: mill", "completion": "leloala (maloala)"}
+{"prompt": "Translate to English: leloala (maloala)", "completion": "mill"}
+{"prompt": "Translate to Sesotho: mine", "completion": "ka"}
+{"prompt": "Translate to English: ka", "completion": "mine"}
+{"prompt": "Translate to Sesotho: minister", "completion": "moruti (baruti)"}
+{"prompt": "Translate to English: moruti (baruti)", "completion": "minister"}
+{"prompt": "Translate to Sesotho: minute", "completion": "motsotso (metsotso)"}
+{"prompt": "Translate to English: motsotso (metsotso)", "completion": "minute"}
+{"prompt": "Translate to Sesotho: miracle", "completion": "mohlolo (mehlolo)"}
+{"prompt": "Translate to English: mohlolo (mehlolo)", "completion": "miracle"}
+{"prompt": "Translate to Sesotho: to miss", "completion": "ho hloloheloa (tsoe) (Ke mo hlolohetsoe. \"I miss him.\")"}
+{"prompt": "Translate to English: ho hloloheloa (tsoe)", "completion": "to miss"}
+{"prompt": "Translate to Sesotho: mistake", "completion": "phoso (liphoso)"}
+{"prompt": "Translate to English: phoso (liphoso)", "completion": "mistake"}
+{"prompt": "Translate to Sesotho: to mix", "completion": "ho kopanya (tse)"}
+{"prompt": "Translate to English: ho kopanya (tse)", "completion": "to mix"}
+{"prompt": "Translate to Sesotho: moment", "completion": "motsotso (metsotso)"}
+{"prompt": "Translate to English: motsotso (metsotso)", "completion": "moment"}
+{"prompt": "Translate to Sesotho: Monday", "completion": "Mantaha"}
+{"prompt": "Translate to English: Mantaha", "completion": "Monday"}
+{"prompt": "Translate to Sesotho: money", "completion": "chelete (lichelete)"}
+{"prompt": "Translate to English: chelete (lichelete)", "completion": "money"}
+{"prompt": "Translate to Sesotho: month", "completion": "khoeli (likhoeli)"}
+{"prompt": "Translate to English: khoeli (likhoeli)", "completion": "month"}
+{"prompt": "Translate to Sesotho: moon", "completion": "khoeli (likhoeli)"}
+{"prompt": "Translate to English: khoeli (likhoeli)", "completion": "moon"}
+{"prompt": "Translate to Sesotho: more than", "completion": "ho feta ho"}
+{"prompt": "Translate to English: ho feta ho", "completion": "more than"}
+{"prompt": "Translate to Sesotho: moreover", "completion": "ebile"}
+{"prompt": "Translate to English: ebile", "completion": "moreover"}
+{"prompt": "Translate to Sesotho: morning", "completion": "hoseng"}
+{"prompt": "Translate to English: hoseng", "completion": "morning"}
+{"prompt": "Translate to Sesotho: at the most", "completion": "boholo"}
+{"prompt": "Translate to English: boholo", "completion": "at the most"}
+{"prompt": "Translate to Sesotho: mother", "completion": "'me (bo-)"}
+{"prompt": "Translate to English: 'me (bo-)", "completion": "mother"}
+{"prompt": "Translate to Sesotho: mother-in-law", "completion": "mohoehali (bahoehali)"}
+{"prompt": "Translate to English: mohoehali (bahoehali)", "completion": "mother-in-law"}
+{"prompt": "Translate to Sesotho: mountain", "completion": "thaba (lithaba)"}
+{"prompt": "Translate to English: thaba (lithaba)", "completion": "mountain"}
+{"prompt": "Translate to Sesotho: mouth", "completion": "molomo (melomo)"}
+{"prompt": "Translate to English: molomo (melomo)", "completion": "mouth"}
+{"prompt": "Translate to Sesotho: much", "completion": "haholo"}
+{"prompt": "Translate to English: haholo", "completion": "much"}
+{"prompt": "Translate to Sesotho: music", "completion": "'mino (mebino)"}
+{"prompt": "Translate to English: 'mino (mebino)", "completion": "music"}
+{"prompt": "Translate to Sesotho: to must (do something)", "completion": "ho tlameha (ile)"}
+{"prompt": "Translate to English: ho tlameha (ile)", "completion": "to must (do something)"}
+{"prompt": "Translate to Sesotho: name", "completion": "lebitso (mabitso)"}
+{"prompt": "Translate to English: lebitso (mabitso)", "completion": "name"}
+{"prompt": "Translate to Sesotho: nation", "completion": "sechaba (lichaba)"}
+{"prompt": "Translate to English: sechaba (lichaba)", "completion": "nation"}
+{"prompt": "Translate to Sesotho: near", "completion": "haufinyane"}
+{"prompt": "Translate to English: haufinyane", "completion": "near"}
+{"prompt": "Translate to Sesotho: need", "completion": "tlhoko (litlhoko)"}
+{"prompt": "Translate to English: tlhoko (litlhoko)", "completion": "need"}
+{"prompt": "Translate to Sesotho: to need", "completion": "ho hloka (ile)"}
+{"prompt": "Translate to English: ho hloka (ile)", "completion": "to need"}
+{"prompt": "Translate to Sesotho: to need for", "completion": "ho hlokela (tse)"}
+{"prompt": "Translate to English: ho hlokela (tse)", "completion": "to need for"}
+{"prompt": "Translate to Sesotho: to cause to need for", "completion": "ho hlokisetsa (litse)"}
+{"prompt": "Translate to English: ho hlokisetsa (litse)", "completion": "to cause to need for"}
+{"prompt": "Translate to Sesotho: to be needed (1)", "completion": "ho hlokeha (ile)"}
+{"prompt": "Translate to Sesotho: to be needed (2)", "completion": "ho hlokoa (iloe)"}
+{"prompt": "Translate to English: ho hlokeha (ile)", "completion": "to be needed"}
+{"prompt": "Translate to English: ho hlokoa (iloe)", "completion": "to be needed"}
+{"prompt": "Translate to Sesotho: to need one another", "completion": "ho hlokana (e)"}
+{"prompt": "Translate to English: ho hlokana (e)", "completion": "to need one another"}
+{"prompt": "Translate to Sesotho: to need oneself", "completion": "ho itlhoka (ile)"}
+{"prompt": "Translate to English: ho itlhoka (ile)", "completion": "to need oneself"}
+{"prompt": "Translate to Sesotho: neighbor", "completion": "moahisane (baahisane)"}
+{"prompt": "Translate to English: moahisane (baahisane)", "completion": "neighbor"}
+{"prompt": "Translate to Sesotho: nephew", "completion": "mochana (bachana) e motona"}
+{"prompt": "Translate to English: mochana (bachana) e motona", "completion": "nephew"}
+{"prompt": "Translate to Sesotho: new", "completion": "ncha (-cha)"}
+{"prompt": "Translate to English: ncha (-cha)", "completion": "new"}
+{"prompt": "Translate to Sesotho: news", "completion": "taba (litaba)"}
+{"prompt": "Translate to English: taba (litaba)", "completion": "news"}
+{"prompt": "Translate to Sesotho: nice", "completion": "monate"}
+{"prompt": "Translate to English: monate", "completion": "nice"}
+{"prompt": "Translate to Sesotho: nice", "completion": "ntle (-tle)"}
+{"prompt": "Translate to English: ntle (-tle)", "completion": "nice"}
+{"prompt": "Translate to Sesotho: to become nice", "completion": "ho ntlafala (etse)"}
+{"prompt": "Translate to English: ho ntlafala (etse)", "completion": "to become nice"}
+{"prompt": "Translate to Sesotho: niece", "completion": "mochana (bachana) e motšehali"}
+{"prompt": "Translate to English: mochana (bachana) e motšehali", "completion": "niece"}
+
+{"prompt": "Translate to Sesotho: night", "completion": "bosiu (masiu)"}
+{"prompt": "Translate to English: bosiu (masiu)", "completion": "night"}
+{"prompt": "Translate to Sesotho: nine", "completion": "robong"}
+{"prompt": "Translate to English: robong", "completion": "nine"}
+{"prompt": "Translate to Sesotho: ninth", "completion": "boroba mono o le mong"}
+{"prompt": "Translate to English: boroba mono o le mong", "completion": "ninth"}
+{"prompt": "Translate to Sesotho: to be normal", "completion": "ho tloaeleha (ile) (Ho tloaelehile. \"It is normal.\")"}
+{"prompt": "Translate to English: ho tloaeleha (ile)", "completion": "to be normal"}
+{"prompt": "Translate to Sesotho: nose", "completion": "nko (linko)"}
+{"prompt": "Translate to English: nko (linko)", "completion": "nose"}
+{"prompt": "Translate to Sesotho: not (it's not, they're not) (1)", "completion": "eseng"}
+{"prompt": "Translate to Sesotho: not (it's not, they're not) (2)", "completion": "hase"}
+{"prompt": "Translate to English: eseng", "completion": "not (it's not, they're not)"}
+{"prompt": "Translate to English: hase", "completion": "not (it's not, they're not)"}
+{"prompt": "Translate to Sesotho: not at all", "completion": "ho hang"}
+{"prompt": "Translate to English: ho hang", "completion": "not at all"}
+{"prompt": "Translate to Sesotho: not much", "completion": "hanyane"}
+{"prompt": "Translate to English: hanyane", "completion": "not much"}
+{"prompt": "Translate to Sesotho: note", "completion": "molaetsa (melaetsa)"}
+{"prompt": "Translate to English: molaetsa (melaetsa)", "completion": "note"}
+{"prompt": "Translate to Sesotho: to notify", "completion": "ho tsebisa (itse)"}
+{"prompt": "Translate to English: ho tsebisa (itse)", "completion": "to notify"}
+{"prompt": "Translate to Sesotho: November", "completion": "Pulungoana"}
+{"prompt": "Translate to English: Pulungoana", "completion": "November"}
+{"prompt": "Translate to Sesotho: now", "completion": "hona joale"}
+{"prompt": "Translate to English: hona joale", "completion": "now"}
+{"prompt": "Translate to Sesotho: ocean", "completion": "leoatle (maoatle)"}
+{"prompt": "Translate to English: leoatle (maoatle)", "completion": "ocean"}
+{"prompt": "Translate to Sesotho: October", "completion": "Mphalane"}
+{"prompt": "Translate to English: Mphalane", "completion": "October"}
+{"prompt": "Translate to Sesotho: often", "completion": "hangata"}
+{"prompt": "Translate to English: hangata", "completion": "often"}
+{"prompt": "Translate to Sesotho: old", "completion": "kholo (-holo)"}
+{"prompt": "Translate to English: kholo (-holo)", "completion": "old"}
+{"prompt": "Translate to Sesotho: once (1)", "completion": "hang"}
+{"prompt": "Translate to Sesotho: once (2)", "completion": "hanngoe"}
+{"prompt": "Translate to English: hang", "completion": "once"}
+{"prompt": "Translate to English: hanngoe", "completion": "once"}
+{"prompt": "Translate to Sesotho: one", "completion": "'ngoe (-ng)"}
+{"prompt": "Translate to English: 'ngoe (-ng)", "completion": "one"}
+{"prompt": "Translate to Sesotho: onion", "completion": "hanyanese (lihanyanese)"}
+{"prompt": "Translate to English: hanyanese (lihanyanese)", "completion": "onion"}
+{"prompt": "Translate to Sesotho: only", "completion": "feela"}
+{"prompt": "Translate to English: feela", "completion": "only"}
+{"prompt": "Translate to Sesotho: to open", "completion": "ho bula (tse)"}
+{"prompt": "Translate to English: ho bula (tse)", "completion": "to open"}
+{"prompt": "Translate to Sesotho: opportunity", "completion": "monyetla (menyetla)"}
+{"prompt": "Translate to English: monyetla (menyetla)", "completion": "opportunity"}
+{"prompt": "Translate to Sesotho: or", "completion": "kapa"}
+{"prompt": "Translate to English: kapa", "completion": "or"}
+{"prompt": "Translate to Sesotho: to organize", "completion": "ho lokisa (itse)"}
+{"prompt": "Translate to English: ho lokisa (itse)", "completion": "to organize"}
+{"prompt": "Translate to Sesotho: to ought to", "completion": "ho tšoanela (tse) (Ke tšoanetse. \"I ought to.\")"}
+{"prompt": "Translate to English: ho tšoanela (tse)", "completion": "to ought to"}
+{"prompt": "Translate to Sesotho: our", "completion": "rona"}
+{"prompt": "Translate to English: rona", "completion": "our"}
+{"prompt": "Translate to Sesotho: outdoors", "completion": "kantle"}
+{"prompt": "Translate to English: kantle", "completion": "outdoors"}
+{"prompt": "Translate to Sesotho: owner of", "completion": "mong'a (beng ba)"}
+{"prompt": "Translate to English: mong'a (beng ba)", "completion": "owner of"}
+{"prompt": "Translate to Sesotho: owner of the cow", "completion": "mong'a khomo"}
+{"prompt": "Translate to English: mong'a khomo", "completion": "owner of the cow"}
+{"prompt": "Translate to Sesotho: pail", "completion": "nkho (linkho)"}
+{"prompt": "Translate to English: nkho (linkho)", "completion": "pail"}
+{"prompt": "Translate to Sesotho: pants", "completion": "borikhoe (marikhoe)"}
+{"prompt": "Translate to English: borikhoe (marikhoe)", "completion": "pants"}
+{"prompt": "Translate to Sesotho: paper", "completion": "pampiri (lipampiri)"}
+{"prompt": "Translate to English: pampiri (lipampiri)", "completion": "paper"}
+{"prompt": "Translate to Sesotho: parent", "completion": "motsoali (batsoali)"}
+{"prompt": "Translate to English: motsoali (batsoali)", "completion": "parent"}
+{"prompt": "Translate to Sesotho: to pass", "completion": "ho feta (ile)"}
+{"prompt": "Translate to English: ho feta (ile)", "completion": "to pass"}
+{"prompt": "Translate to Sesotho: pasture", "completion": "lekhulo (makhulo)"}
+{"prompt": "Translate to English: lekhulo (makhulo)", "completion": "pasture"}
+{"prompt": "Translate to Sesotho: path", "completion": "tsela (litsela)"}
+{"prompt": "Translate to English: tsela (litsela)", "completion": "path"}
+{"prompt": "Translate to Sesotho: to pay (1)", "completion": "ho lefa (ile)"}
+{"prompt": "Translate to Sesotho: to pay (2)", "completion": "ho patala (etse)"}
+{"prompt": "Translate to English: ho lefa (ile)", "completion": "to pay"}
+{"prompt": "Translate to English: ho patala (etse)", "completion": "to pay"}
+{"prompt": "Translate to Sesotho: to cause to pay", "completion": "ho patalisa (itse)"}
+{"prompt": "Translate to English: ho patalisa (itse)", "completion": "to cause to pay"}
+{"prompt": "Translate to Sesotho: to pay for", "completion": "ho patalla (etse)"}
+{"prompt": "Translate to English: ho patalla (etse)", "completion": "to pay for"}
+{"prompt": "Translate to Sesotho: peace", "completion": "khotso"}
+{"prompt": "Translate to English: khotso", "completion": "peace"}
+{"prompt": "Translate to Sesotho: perhaps", "completion": "ekaba"}
+{"prompt": "Translate to English: ekaba", "completion": "perhaps"}
+{"prompt": "Translate to Sesotho: person", "completion": "motho (batho)"}
+{"prompt": "Translate to English: motho (batho)", "completion": "person"}
+{"prompt": "Translate to Sesotho: person of my place of origin", "completion": "ngoan'eso (bana beso)"}
+{"prompt": "Translate to English: ngoan'eso (bana beso)", "completion": "person of my place of origin"}
+{"prompt": "Translate to Sesotho: phone", "completion": "founo (lifouno)"}
+{"prompt": "Translate to English: founo (lifouno)", "completion": "phone"}
+{"prompt": "Translate to Sesotho: to phone", "completion": "ho letsa (itse)"}
+{"prompt": "Translate to English: ho letsa (itse)", "completion": "to phone"}
+{"prompt": "Translate to Sesotho: to phone someone", "completion": "ho letsetsa (litse)"}
+{"prompt": "Translate to English: ho letsetsa (litse)", "completion": "to phone someone"}
+{"prompt": "Translate to Sesotho: pig", "completion": "fariki (lifariki)"}
+{"prompt": "Translate to English: fariki (lifariki)", "completion": "pig"}
+{"prompt": "Translate to Sesotho: pillow", "completion": "mosamo (mesamo)"}
+{"prompt": "Translate to English: mosamo (mesamo)", "completion": "pillow"}
+{"prompt": "Translate to Sesotho: place", "completion": "sebaka (libaka)"}
+{"prompt": "Translate to English: sebaka (libaka)", "completion": "place"}
+{"prompt": "Translate to Sesotho: plan", "completion": "moralo (meralo)"}
+{"prompt": "Translate to English: moralo (meralo)", "completion": "plan"}
+{"prompt": "Translate to Sesotho: plant", "completion": "setlama (litlama)"}
+{"prompt": "Translate to English: setlama (litlama)", "completion": "plant"}
+{"prompt": "Translate to Sesotho: to plant", "completion": "ho lema (me)"}
+{"prompt": "Translate to English: ho lema (me)", "completion": "to plant"}
+{"prompt": "Translate to Sesotho: plate", "completion": "poleiti (lipoleiti)"}
+{"prompt": "Translate to English: poleiti (lipoleiti)", "completion": "plate"}
+
+{"prompt": "Translate to Sesotho: to play", "completion": "ho bapala (ile)"}
+{"prompt": "Translate to English: ho bapala (ile)", "completion": "to play"}
+{"prompt": "Translate to Sesotho: please", "completion": "hle"}
+{"prompt": "Translate to English: hle", "completion": "please"}
+{"prompt": "Translate to Sesotho: please (used in commands)", "completion": "ak'u"}
+{"prompt": "Translate to English: ak'u", "completion": "please (used in commands)"}
+{"prompt": "Translate to Sesotho: plot of maize", "completion": "serapa (lirapa)"}
+{"prompt": "Translate to English: serapa (lirapa)", "completion": "plot of maize"}
+{"prompt": "Translate to Sesotho: to be poor", "completion": "ho fumaneha (ile) (Ke fumanehile. \"I'm poor.\")"}
+{"prompt": "Translate to English: ho fumaneha (ile)", "completion": "to be poor"}
+{"prompt": "Translate to Sesotho: poorly", "completion": "hampe"}
+{"prompt": "Translate to English: hampe", "completion": "poorly"}
+{"prompt": "Translate to Sesotho: to post", "completion": "ho posa (itse)"}
+{"prompt": "Translate to English: ho posa (itse)", "completion": "to post"}
+{"prompt": "Translate to Sesotho: pot", "completion": "pitsa (lipitsa)"}
+{"prompt": "Translate to English: pitsa (lipitsa)", "completion": "pot"}
+{"prompt": "Translate to Sesotho: potato", "completion": "tapole (litapole)"}
+{"prompt": "Translate to English: tapole (litapole)", "completion": "potato"}
+{"prompt": "Translate to Sesotho: power", "completion": "matla"}
+{"prompt": "Translate to English: matla", "completion": "power"}
+{"prompt": "Translate to Sesotho: to pray", "completion": "ho rapela (tse)"}
+{"prompt": "Translate to English: ho rapela (tse)", "completion": "to pray"}
+{"prompt": "Translate to Sesotho: pretty", "completion": "ntle (-tle)"}
+{"prompt": "Translate to English: ntle (-tle)", "completion": "pretty"}
+{"prompt": "Translate to Sesotho: problem (1)", "completion": "bothata (mathata)"}
+{"prompt": "Translate to Sesotho: problem (2)", "completion": "molato (melato)"}
+{"prompt": "Translate to English: bothata (mathata)", "completion": "problem"}
+{"prompt": "Translate to English: molato (melato)", "completion": "problem"}
+{"prompt": "Translate to Sesotho: progress", "completion": "tsoelopele (litsoelopele)"}
+{"prompt": "Translate to English: tsoelopele (litsoelopele)", "completion": "progress"}
+{"prompt": "Translate to Sesotho: project", "completion": "morero (merero)"}
+{"prompt": "Translate to English: morero (merero)", "completion": "project"}
+{"prompt": "Translate to Sesotho: to pronounce", "completion": "ho qapalisa (itse)"}
+{"prompt": "Translate to English: ho qapalisa (itse)", "completion": "to pronounce"}
+{"prompt": "Translate to Sesotho: to be pronounced", "completion": "ho qapalisisa (itse)"}
+{"prompt": "Translate to English: ho qapalisisa (itse)", "completion": "to be pronounced"}
+{"prompt": "Translate to Sesotho: pronunciation", "completion": "qapaliso (liqapaliso)"}
+{"prompt": "Translate to English: qapaliso (liqapaliso)", "completion": "pronunciation"}
+{"prompt": "Translate to Sesotho: pump", "completion": "pompo (lipompo)"}
+{"prompt": "Translate to English: pompo (lipompo)", "completion": "pump"}
+{"prompt": "Translate to Sesotho: to put", "completion": "ho bea (ile)"}
+{"prompt": "Translate to English: ho bea (ile)", "completion": "to put"}
+{"prompt": "Translate to Sesotho: quarrel", "completion": "khang (likhang)"}
+{"prompt": "Translate to English: khang (likhang)", "completion": "quarrel"}
+{"prompt": "Translate to Sesotho: question", "completion": "potso (lipotso)"}
+{"prompt": "Translate to English: potso (lipotso)", "completion": "question"}
+{"prompt": "Translate to Sesotho: quickly", "completion": "kapele"}
+{"prompt": "Translate to English: kapele", "completion": "quickly"}
+{"prompt": "Translate to Sesotho: rain", "completion": "pula (lipula)"}
+{"prompt": "Translate to English: pula (lipula)", "completion": "rain"}
+{"prompt": "Translate to Sesotho: to rain", "completion": "ho na (ele) (Pula ea na. \"It is raining.\")"}
+{"prompt": "Translate to English: ho na (ele)", "completion": "to rain"}
+{"prompt": "Translate to Sesotho: rainbow", "completion": "mookoli (meokoli)"}
+{"prompt": "Translate to English: mookoli (meokoli)", "completion": "rainbow"}
+{"prompt": "Translate to Sesotho: to read", "completion": "ho bala (ile)"}
+{"prompt": "Translate to English: ho bala (ile)", "completion": "to read"}
+{"prompt": "Translate to Sesotho: reason", "completion": "lebaka (mabaka)"}
+{"prompt": "Translate to English: lebaka (mabaka)", "completion": "reason"}
+{"prompt": "Translate to Sesotho: to recover from illness", "completion": "ho fola (ile) (Ke folile. \"I've recovered.\")"}
+{"prompt": "Translate to English: ho fola (ile)", "completion": "to recover from illness"}
+{"prompt": "Translate to Sesotho: red", "completion": "khubelu (-fubelu)"}
+{"prompt": "Translate to English: khubelu (-fubelu)", "completion": "red"}
+{"prompt": "Translate to Sesotho: to refuse", "completion": "ho hana (ne)"}
+{"prompt": "Translate to English: ho hana (ne)", "completion": "to refuse"}
+{"prompt": "Translate to Sesotho: to remain", "completion": "ho sala (etse)"}
+{"prompt": "Translate to English: ho sala (etse)", "completion": "to remain"}
+{"prompt": "Translate to Sesotho: to remember", "completion": "ho hopola (tse)"}
+{"prompt": "Translate to English: ho hopola (tse)", "completion": "to remember"}
+{"prompt": "Translate to Sesotho: to repeat", "completion": "ho pheta (ile)"}
+{"prompt": "Translate to English: ho pheta (ile)", "completion": "to repeat"}
+{"prompt": "Translate to Sesotho: to respect", "completion": "ho hlompha (ile)"}
+{"prompt": "Translate to English: ho hlompha (ile)", "completion": "to respect"}
+{"prompt": "Translate to Sesotho: responsibility", "completion": "boikarabelo (maikarabelo)"}
+{"prompt": "Translate to English: boikarabelo (maikarabelo)", "completion": "responsibility"}
+{"prompt": "Translate to Sesotho: to return", "completion": "ho khutla (ile)"}
+{"prompt": "Translate to English: ho khutla (ile)", "completion": "to return"}
+{"prompt": "Translate to Sesotho: rice", "completion": "reisi (lireisi)"}
+{"prompt": "Translate to English: reisi (lireisi)", "completion": "rice"}
+{"prompt": "Translate to Sesotho: to be rich", "completion": "ho rua (ile) (Ke ruile. \"I'm rich.\")"}
+{"prompt": "Translate to English: ho rua (ile)", "completion": "to be rich"}
+{"prompt": "Translate to Sesotho: to ride", "completion": "ho palama (e)"}
+{"prompt": "Translate to English: ho palama (e)", "completion": "to ride"}
+{"prompt": "Translate to Sesotho: ring", "completion": "lesale (masale)"}
+{"prompt": "Translate to English: lesale (masale)", "completion": "ring"}
+{"prompt": "Translate to Sesotho: to rise (esp. the sun)", "completion": "ho chaba (ile)"}
+{"prompt": "Translate to English: ho chaba (ile)", "completion": "to rise (esp. the sun)"}
+{"prompt": "Translate to Sesotho: river", "completion": "noka (linoka)"}
+{"prompt": "Translate to English: noka (linoka)", "completion": "river"}
+{"prompt": "Translate to Sesotho: road", "completion": "tsela (litsela)"}
+{"prompt": "Translate to English: tsela (litsela)", "completion": "road"}
+{"prompt": "Translate to Sesotho: to rob someone", "completion": "ho utsoetsa (litse)"}
+{"prompt": "Translate to English: ho utsoetsa (litse)", "completion": "to rob someone"}
+{"prompt": "Translate to Sesotho: rock", "completion": "lejoe (majoe)"}
+{"prompt": "Translate to English: lejoe (majoe)", "completion": "rock"}
+{"prompt": "Translate to Sesotho: room", "completion": "kamore (likamore)"}
+{"prompt": "Translate to English: kamore (likamore)", "completion": "room"}
+{"prompt": "Translate to Sesotho: rule", "completion": "molao (melao)"}
+{"prompt": "Translate to English: molao (melao)", "completion": "rule"}
+{"prompt": "Translate to Sesotho: to run", "completion": "ho matha (ile)"}
+{"prompt": "Translate to English: ho matha (ile)", "completion": "to run"}
+
+{"prompt": "Translate to Sesotho: I've become satisfied.", "completion": "Ke khotsofetse."}
+{"prompt": "What is 'Saturday' in Sesotho?", "completion": "Moqebelo"}
+{"prompt": "How do you say 'to say' in Sesotho?", "completion": "ho re (itse)"}
+{"prompt": "Translate to Sesotho: school", "completion": "sekolo (likolo)"}
+{"prompt": "What is 'sea' in Sesotho?", "completion": "leoatle (maoatle)"}
+{"prompt": "How do you say 'second' in Sesotho?", "completion": "bobeli"}
+{"prompt": "Translate to Sesotho: secret", "completion": "lekunutu (makunutu)"}
+{"prompt": "How do you say 'to see' in Sesotho?", "completion": "ho bona (e)"}
+{"prompt": "Translate to Sesotho: to see one another", "completion": "ho bonana (e)"}
+{"prompt": "What is 'to see oneself' in Sesotho?", "completion": "ho ipona (e)"}
+{"prompt": "Translate to Sesotho: seed", "completion": "peo (lipeo)"}
+{"prompt": "How do you say 'to sell' in Sesotho?", "completion": "ho rekisa (itse)"}
+{"prompt": "What are the two ways to say 'to be sold' in Sesotho?", "completion": "1: ho rekiseha (ile) 2: ho rekisoa (itsoe)"}
+{"prompt": "Translate to Sesotho: to sell for", "completion": "ho rekisetsa (litse)"}
+{"prompt": "How do you say 'to sell oneself' in Sesotho?", "completion": "ho ithekisa (itse)"}
+{"prompt": "What is 'sentence' in Sesotho?", "completion": "polelo (lipolelo)"}
+{"prompt": "Translate to Sesotho: September", "completion": "Loetse"}
+{"prompt": "How do you say 'seriously' in Sesotho?", "completion": "ka 'nete"}
+{"prompt": "Translate to Sesotho: to set (esp. the sun)", "completion": "ho likela (tse)"}
+{"prompt": "What is 'seven' in Sesotho?", "completion": "supileng"}
+{"prompt": "Translate to Sesotho: seventh", "completion": "bosupa"}
+{"prompt": "How do you say 'shade' in Sesotho?", "completion": "moriti (meriti)"}
+{"prompt": "What is 'shadow' in Sesotho?", "completion": "seriti (liriti)"}
+{"prompt": "Translate to Sesotho: to share", "completion": "ho arola (tse)"}
+{"prompt": "How do you say 'sheep' in Sesotho?", "completion": "nku (linku)"}
+{"prompt": "Translate to Sesotho: to shine", "completion": "ho khanya (tse)"}
+{"prompt": "What is 'shirt' in Sesotho?", "completion": "hempe (lihempe)"}
+{"prompt": "How do you say 'shop' in Sesotho?", "completion": "shopo (lishopo)"}
+{"prompt": "Translate to Sesotho: short", "completion": "khutšoane (-khutšoane)"}
+{"prompt": "How do you say 'to should' in Sesotho with example?", "completion": "ho tšoanela (tse) (Ke tšoanetse. \"I should.\")"}
+{"prompt": "Translate to Sesotho: to show", "completion": "ho bontša (itse)"}
+{"prompt": "What is 'sibling of the opposite sex' in Sesotho?", "completion": "khaitseli (bo-)"}
+{"prompt": "How do you say 'to be sick' in Sesotho?", "completion": "ho kula (tse)"}
+{"prompt": "Translate to Sesotho: to be similar", "completion": "ho tšoana (ne)"}
+{"prompt": "What is 'to sing' in Sesotho?", "completion": "ho bina (ne)"}
+{"prompt": "How do you say 'sir' in Sesotho?", "completion": "ntate (bo-)"}
+{"prompt": "Translate to Sesotho: sister", "completion": "ausi (bo-)"}
+{"prompt": "What is 'sister-in-law' in Sesotho?", "completion": "molamo (bo-)"}
+{"prompt": "How do you say 'to sit down' in Sesotho?", "completion": "ho lula (tse) fatše"}
+{"prompt": "Translate to Sesotho: site", "completion": "setša (litša)"}
+{"prompt": "What is 'six' in Sesotho?", "completion": "tšeletšeng"}
+{"prompt": "Translate to Sesotho: sixth", "completion": "botšelela"}
+{"prompt": "How do you say 'skin' in Sesotho?", "completion": "letlalo (matlalo)"}
+{"prompt": "What is 'sky' in Sesotho?", "completion": "leholimo (maholimo)"}
+{"prompt": "Translate to Sesotho: to sleep with example", "completion": "ho robala (etse) (Ke robetse. \"I'm sleeping.\")"}
+{"prompt": "How do you say 'slowly' in Sesotho?", "completion": "butle"}
+{"prompt": "Translate to Sesotho: small", "completion": "nyane (-nyane)"}
+{"prompt": "What are two ways to say 'smart' in Sesotho?", "completion": "1: bohlale 2: bonolo"}
+{"prompt": "How do you say 'to smile' in Sesotho?", "completion": "ho bososela (tse)"}
+{"prompt": "Translate to Sesotho: to smoke", "completion": "ho tsuba (ile)"}
+{"prompt": "What is 'snake' in Sesotho?", "completion": "noha (linoha)"}
+{"prompt": "Translate to Sesotho: snow with example", "completion": "lehloa (mahloa) (Lehloa lea khetheha. \"It is snowing.\")"}
+{"prompt": "How do you say 'so (as such)' in Sesotho with example?", "completion": "joalo (ho joalo \"it is so\")"}
+
+{"prompt": "Translate to Sesotho: so (well then)", "completion": "joale"}
+{"prompt": "What is 'soft' in Sesotho?", "completion": "bonolo"}
+{"prompt": "How do you say 'soil' in Sesotho?", "completion": "mobu (mebu)"}
+{"prompt": "Translate to Sesotho: sometimes", "completion": "ka nako e 'ngoe"}
+{"prompt": "What is 'son' in Sesotho?", "completion": "mora (bara)"}
+{"prompt": "How do you say 'son-in-law' in Sesotho?", "completion": "mokhoenyana (bakhoenyana)"}
+{"prompt": "Translate to Sesotho: soon", "completion": "haufinyane"}
+{"prompt": "How do you say 'to feel sorry' in Sesotho with example?", "completion": "ho soaba (ile) (Ke soabile. \"I feel sorry.\")"}
+{"prompt": "What is 'spade' in Sesotho?", "completion": "kharafu (likharafu)"}
+{"prompt": "Translate to Sesotho: to speak", "completion": "ho bua (ile)"}
+{"prompt": "How do you say 'spider' in Sesotho?", "completion": "sekho (likho)"}
+{"prompt": "What is 'spoon' in Sesotho?", "completion": "khaba (likhaba)"}
+{"prompt": "Translate to Sesotho: spring (season)", "completion": "selemo"}
+{"prompt": "How do you say 'spring (water)' in Sesotho?", "completion": "seliba (liliba)"}
+{"prompt": "What is 'squash' in Sesotho?", "completion": "mokopu (mekopu)"}
+{"prompt": "Translate to Sesotho: to stand, wait", "completion": "ho ema (e)"}
+{"prompt": "How do you say 'star' in Sesotho?", "completion": "naleli (linaleli)"}
+{"prompt": "What is 'to stay (live somewhere)' in Sesotho?", "completion": "ho lula (tse)"}
+{"prompt": "Translate to Sesotho: to steal", "completion": "ho utsoa (itse)"}
+{"prompt": "How do you say 'still' in Sesotho with example?", "completion": "ntse (Ke ntse ke bua. \"I'm still speaking.\")"}
+{"prompt": "What is 'stomach' in Sesotho?", "completion": "mala"}
+{"prompt": "Translate to Sesotho: to stop (something)", "completion": "ho emisa (itse)"}
+{"prompt": "How do you say 'store' in Sesotho?", "completion": "lebenkele (mabenkele)"}
+{"prompt": "What is 'story' in Sesotho?", "completion": "pale (lipale)"}
+{"prompt": "Translate to Sesotho: stove", "completion": "setofo (litofo)"}
+{"prompt": "How do you say 'to be strange' in Sesotho?", "completion": "ho makatsa (litse)"}
+{"prompt": "What is 'to strengthen' in Sesotho?", "completion": "ho matlafatsa (litse)"}
+{"prompt": "Translate to Sesotho: to become strong", "completion": "ho matlafala (etse)"}
+{"prompt": "How do you say 'strong' in Sesotho?", "completion": "matla"}
+{"prompt": "What is 'stupid' in Sesotho?", "completion": "sethoto"}
+{"prompt": "Translate to Sesotho: to succeed", "completion": "ho atleha (ile)"}
+{"prompt": "How do you say 'summer' in Sesotho?", "completion": "hlabula"}
+{"prompt": "What is 'sun' in Sesotho?", "completion": "letsatsi"}
+{"prompt": "Translate to Sesotho: Sunday", "completion": "Sontaha"}
+{"prompt": "How do you say 'to support' in Sesotho?", "completion": "ho tšehetsa (litse)"}
+{"prompt": "What is 'surname' in Sesotho?", "completion": "fane (lifane)"}
+{"prompt": "Translate to Sesotho: surprise", "completion": "makatso (limakatso)"}
+{"prompt": "How do you say 'to surprise' in Sesotho?", "completion": "ho makatsa (litse)"}
+{"prompt": "What is 'to sweep' in Sesotho?", "completion": "ho fiela (tse)"}
+{"prompt": "Translate to Sesotho: table", "completion": "tafole (litafole)"}
+{"prompt": "How do you say 'to take' in Sesotho?", "completion": "ho nka (ile)"}
+{"prompt": "What is 'to take back' in Sesotho?", "completion": "ho fanolla (otse)"}
+{"prompt": "Translate to Sesotho: tall", "completion": "telele (-lelele)"}
+{"prompt": "How do you say 'taxi' in Sesotho?", "completion": "tekesi (litekesi)"}
+{"prompt": "What is 'to teach' in Sesotho?", "completion": "ho ruta (ile)"}
+{"prompt": "Translate to Sesotho: teacher", "completion": "tichere (matichere)"}
+{"prompt": "How do you say 'to tell' in Sesotho?", "completion": "ho joetsa (itse)"}
+{"prompt": "What is 'ten' in Sesotho?", "completion": "leshome (mashome)"}
+{"prompt": "Translate to Sesotho: to be thankful", "completion": "ho leboha (ile)"}
+{"prompt": "How do you say 'that' in Sesotho (general)?", "completion": "1: hoba 2: hore"}
+{"prompt": "What is 'that' for noun classes 1,2,7 in Sesotho?", "completion": "eno(-no), eo"}
+{"prompt": "Translate to Sesotho: that (NC3)", "completion": "ono(-no), oo"}
+{"prompt": "How do you say 'that' for noun class 4 in Sesotho?", "completion": "leno(-no), leo"}
+{"prompt": "What is 'that' for noun class 5 in Sesotho?", "completion": "seno(-no), seo"}
+{"prompt": "Translate to Sesotho: that (NC6)", "completion": "bono(-no), boo"}
+{"prompt": "How do you say 'that (over there)' for noun classes 1,2,7 in Sesotho?", "completion": "eane"}
+
+{"prompt": "How do you say 'that (over there)' for noun class 3 in Sesotho?", "completion": "oane"}
+{"prompt": "What is 'that (over there)' for noun class 4 in Sesotho?", "completion": "lane"}
+{"prompt": "Translate to Sesotho: that (over there) (NC5)", "completion": "sane"}
+{"prompt": "How do you say 'that (over there)' for noun class 6 in Sesotho?", "completion": "bane"}
+{"prompt": "What is 'that way' in Sesotho?", "completion": "koana"}
+{"prompt": "Translate to Sesotho: their", "completion": "bona"}
+{"prompt": "How do you say 'them' in Sesotho?", "completion": "bona"}
+{"prompt": "What are two ways to say 'there' in Sesotho with example?", "completion": "1: teng 2: moo (hona moo \"right there\")"}
+{"prompt": "Translate to Sesotho: these (NC1,2)", "completion": "bana"}
+{"prompt": "How do you say 'these' for noun class 3 in Sesotho?", "completion": "eena"}
+{"prompt": "What is 'these' for noun classes 4,6 in Sesotho?", "completion": "ana"}
+{"prompt": "Translate to Sesotho: these (NC5,7)", "completion": "tsena"}
+{"prompt": "How do you say 'they' for noun class 3 in Sesotho?", "completion": "eona"}
+{"prompt": "What is 'they' for noun classes 4,6 in Sesotho?", "completion": "'ona"}
+{"prompt": "Translate to Sesotho: they (NC5,7)", "completion": "tsona"}
+{"prompt": "How do you say 'they are' in Sesotho?", "completion": "ke"}
+{"prompt": "What is 'thin' in Sesotho?", "completion": "tšesane (-sesane)"}
+{"prompt": "Translate to Sesotho: to think with example", "completion": "ho nahana (e) (Ke nahana joalo. \"I think so\")"}
+{"prompt": "How do you say 'third' in Sesotho?", "completion": "boraro"}
+{"prompt": "What is 'this' in Sesotho (general)?", "completion": "hoo (ka hoo \"as such\")"}
+{"prompt": "Translate to Sesotho: this (NC1,2)", "completion": "enoa"}
+{"prompt": "How do you say 'this' for noun class 3 in Sesotho?", "completion": "ona"}
+{"prompt": "What is 'this' for noun class 4 in Sesotho?", "completion": "lena"}
+{"prompt": "Translate to Sesotho: this (NC5)", "completion": "sena"}
+{"prompt": "How do you say 'this' for noun class 6 in Sesotho?", "completion": "bona"}
+{"prompt": "What is 'those' for noun classes 1,2 in Sesotho?", "completion": "bano(-no), bao"}
+{"prompt": "Translate to Sesotho: those (NC3)", "completion": "eeno(-no), eo"}
+{"prompt": "How do you say 'those' for noun classes 4,6 in Sesotho?", "completion": "ano(-no), ao"}
+{"prompt": "What is 'those' for noun classes 5,7 in Sesotho?", "completion": "tseno(-no), tseo"}
+{"prompt": "Translate to Sesotho: those (over there) (NC1,2)", "completion": "bane"}
+{"prompt": "How do you say 'those (over there)' for noun class 3 in Sesotho?", "completion": "eeane"}
+{"prompt": "What is 'those (over there)' for noun classes 4,6 in Sesotho?", "completion": "ane"}
+{"prompt": "Translate to Sesotho: those (over there) (NC5,7)", "completion": "tsane"}
+{"prompt": "How do you say 'thousand' in Sesotho?", "completion": "sekete (likete)"}
+{"prompt": "What is 'three' in Sesotho?", "completion": "tharo"}
+{"prompt": "Translate to Sesotho: three times", "completion": "hararo"}
+{"prompt": "How do you say 'thunder' in Sesotho with example?", "completion": "sealuma (lialuma) (Lea luma. \"It is thundering.\")"}
+{"prompt": "What is 'to thunder' in Sesotho?", "completion": "ho luma (ile)"}
+{"prompt": "Translate to Sesotho: Thursday", "completion": "Labone"}
+{"prompt": "How do you say 'to tie up' in Sesotho?", "completion": "ho fasa (itse)"}
+{"prompt": "What are two ways to say 'time' in Sesotho?", "completion": "1: mohla (mehla) 2: nako"}
+{"prompt": "Translate to Sesotho: to be tired with example", "completion": "ho khathala (etse) (Ke khathetse. \"I'm tired\")"}
+{"prompt": "How do you say 'today' in Sesotho?", "completion": "1: kajeno 2: tsatsing le"}
+{"prompt": "What is 'together' in Sesotho?", "completion": "'moho"}
+{"prompt": "Translate to Sesotho: toilet", "completion": "ntloana (matloana)"}
+{"prompt": "How do you say 'tomato' in Sesotho?", "completion": "tamati (litamati)"}
+{"prompt": "What are two ways to say 'tomorrow' in Sesotho?", "completion": "1: hosane 2: hosasa"}
+{"prompt": "Translate to Sesotho: tooth", "completion": "leino (meno)"}
+{"prompt": "How do you say 'top' in Sesotho?", "completion": "holimo"}
+{"prompt": "What is 'tough' in Sesotho?", "completion": "thata"}
+{"prompt": "Translate to Sesotho: tourist", "completion": "mohahlauli (bahahlauli)"}
+{"prompt": "How do you say 'town' in Sesotho?", "completion": "toropo (litoropo)"}
+{"prompt": "What is 'tractor' in Sesotho?", "completion": "therekere (litherekere)"}
+{"prompt": "Translate to Sesotho: tree", "completion": "sefate (lifate)"}
+{"prompt": "How do you say 'trust' in Sesotho?", "completion": "tšepo"}
+{"prompt": "What is 'to trust' in Sesotho?", "completion": "ho tšepa (ile)"}
+
+{"prompt": "How do you say 'to be trustworthy' in Sesotho?", "completion": "ho tšepahala (etse)"}
+{"prompt": "Translate to Sesotho: truth with example", "completion": "'nete (linnete) (ka 'nete \"truthfully\")"}
+{"prompt": "What is 'to try' in Sesotho?", "completion": "ho leka (ile)"}
+{"prompt": "Translate to Sesotho: Tuesday", "completion": "Labobeli"}
+{"prompt": "How do you say 'twice' in Sesotho?", "completion": "habeli"}
+{"prompt": "What is 'two' in Sesotho?", "completion": "peli (-beli)"}
+{"prompt": "Translate to Sesotho: type (kind)", "completion": "mofuta (mefuta)"}
+{"prompt": "How do you say 'ugly' in Sesotho?", "completion": "mpe (-be)"}
+{"prompt": "What is 'uncle (maternal)' in Sesotho?", "completion": "malome (bo-)"}
+{"prompt": "Translate to Sesotho: uncle (paternal)", "completion": "rangoane (bo-)"}
+{"prompt": "How do you say 'to understand' in Sesotho?", "completion": "ho utloisisa (itse)"}
+{"prompt": "What is 'to undo' in Sesotho?", "completion": "ho etsolla (otse)"}
+{"prompt": "Translate to Sesotho: to unite", "completion": "ho kopanya (tse)"}
+{"prompt": "How do you say 'university' in Sesotho?", "completion": "junifesithi (lijunifesithi)"}
+{"prompt": "What is 'to unlock' in Sesotho?", "completion": "ho notlolla (otse)"}
+{"prompt": "Translate to Sesotho: untidy", "completion": "bohlasoa"}
+{"prompt": "How do you say 'to untie' in Sesotho?", "completion": "ho fasolla (otse)"}
+{"prompt": "What is 'us' in Sesotho?", "completion": "rona"}
+{"prompt": "Translate to Sesotho: to use", "completion": "ho sebelisa (itse)"}
+{"prompt": "How do you say 'valley' in Sesotho?", "completion": "khohlo (likhohlo)"}
+{"prompt": "What is 'very' in Sesotho?", "completion": "haholo"}
+{"prompt": "Translate to Sesotho: village", "completion": "motse (metse)"}
+{"prompt": "How do you say 'to visit something' in Sesotho with example?", "completion": "ho chakela (tse) (Ke chaketse. \"I'm visiting.\")"}
+{"prompt": "What is 'visitor' in Sesotho?", "completion": "moeti (baeti)"}
+{"prompt": "Translate to Sesotho: voice", "completion": "lentsoe (mantsoe)"}
+{"prompt": "How do you say 'to vomit' in Sesotho?", "completion": "ho hlatsa (itse)"}
+{"prompt": "What is 'to wait' in Sesotho?", "completion": "ho ema (e)"}
+{"prompt": "Translate to Sesotho: to wait for with example", "completion": "ho emela (tse) (Ke emetse. \"I'm waiting for.\")"}
+{"prompt": "How do you say 'to wake' in Sesotho?", "completion": "ho tsoha (ile)"}
+{"prompt": "What is 'to walk' in Sesotho?", "completion": "ho tsamaea (ile)"}
+{"prompt": "Translate to Sesotho: to want", "completion": "ho batla (ile)"}
+{"prompt": "How do you say 'war' in Sesotho?", "completion": "ntoa (lintoa)"}
+{"prompt": "What is 'to be warm' in Sesotho with example?", "completion": "ho futhumala (etse) (Ho futhumetse. \"It's warm.\")"}
+{"prompt": "Translate to Sesotho: to wash", "completion": "ho hlatsoa (itse)"}
+{"prompt": "How do you say 'to watch over' in Sesotho?", "completion": "ho boloka (ile)"}
+{"prompt": "What is 'water' in Sesotho?", "completion": "metsi"}
+{"prompt": "Translate to Sesotho: to water", "completion": "ho nosetsa (litse)"}
+{"prompt": "How do you say 'watermelon' in Sesotho?", "completion": "lehapu (mahapu)"}
+{"prompt": "What is 'way' in Sesotho?", "completion": "mokhoa (mekhoa)"}
+{"prompt": "Translate to Sesotho: way over there", "completion": "mane"}
+{"prompt": "How do you say 'to be weak' in Sesotho with example?", "completion": "ho fokola (tse) (Ke fokotse. \"I'm weak.\")"}
+{"prompt": "What is 'weakness' in Sesotho?", "completion": "mofokolo (mefokolo)"}
+{"prompt": "Translate to Sesotho: to wear (dress, pants, shirt) with example", "completion": "ho apara (ere) (Ke apere hempe. \"I'm wearing a shirt.\")"}
+{"prompt": "How do you say 'to wear (shoes, hat, glasses)' in Sesotho with example?", "completion": "ho roala (etse) (Ke roetse katiba. \"I'm wearing a hat.\")"}
+{"prompt": "What is 'Wednesday' in Sesotho?", "completion": "Laboraro"}
+
+{"prompt": "How do you say 'What?' in Sesotho with grammatical note?", "completion": "Eng? ('ng, if preceded by -e, -a. e.g. ke eng = ke'ng?) (eng kapa eng \"whatever\")"}
+{"prompt": "Translate to Sesotho: wheelbarrow", "completion": "kiribaea (likiribaea)"}
+{"prompt": "What is 'When?' in Sesotho with example?", "completion": "Neng? (neng kapa neng \"whenever\")"}
+{"prompt": "How do you say 'Where?' in Sesotho with example?", "completion": "Kae? (kae kapa kae \"wherever\")"}
+{"prompt": "Translate to Sesotho: 'where...' with example", "completion": "moo ... teng (moo a lulang teng \"where he stays\")"}
+{"prompt": "How do you say 'whichever' in Sesotho (depends on noun class)?", "completion": "ofe kapa ofe, efe kapa efe, etc."}
+{"prompt": "What is 'to whisper' in Sesotho?", "completion": "ho nyenyetsa (litse)"}
+{"prompt": "Translate to Sesotho: white", "completion": "tšoeu (-soeu)"}
+{"prompt": "How do you say 'Who?' in Sesotho with example?", "completion": "Mang? (mang kapa mang \"whomever\")"}
+{"prompt": "What is 'Why?' in Sesotho?", "completion": "Hobaneng?"}
+{"prompt": "Translate to Sesotho: wide", "completion": "tenya (-tenya)"}
+{"prompt": "How do you say 'wife' in Sesotho?", "completion": "mosali (basali)"}
+{"prompt": "What is 'to win' in Sesotho?", "completion": "ho hlola (tse)"}
+{"prompt": "Translate to Sesotho: wind", "completion": "moea (meea)"}
+{"prompt": "How do you say 'window' in Sesotho?", "completion": "fenstere (lifenstere)"}
+{"prompt": "What is 'winter' in Sesotho?", "completion": "mariha"}
+{"prompt": "Translate to Sesotho: with", "completion": "le"}
+{"prompt": "How do you say 'within' in Sesotho?", "completion": "ka har'a"}
+{"prompt": "What is 'without' in Sesotho?", "completion": "ka ntle ho"}
+{"prompt": "Translate to Sesotho: word", "completion": "lentsoe (mantsoe)"}
+{"prompt": "How do you say 'work' (noun) in Sesotho?", "completion": "mosebetsi (mesebetsi)"}
+{"prompt": "What is 'worker' in Sesotho?", "completion": "mosebetsi (basebetsi)"}
+{"prompt": "Translate to Sesotho: to work", "completion": "ho sebeletsa (litse)"}
+{"prompt": "How do you say 'to work for' in Sesotho?", "completion": "ho sebeletsa (litse)"}
+{"prompt": "What is 'workshop' in Sesotho?", "completion": "thupelo (lithupelo)"}
+{"prompt": "Translate to Sesotho: world", "completion": "lefatše (mafatše)"}
+{"prompt": "How do you say 'to write' in Sesotho?", "completion": "ho ngola (tse)"}
+{"prompt": "What is 'to write to' in Sesotho?", "completion": "ho ngolla (etse)"}
+{"prompt": "Translate to Sesotho: to be wrong with example", "completion": "ho fosa (itse) (Ke fositse. \"I'm incorrect.\")"}
+{"prompt": "How do you say 'year' in Sesotho?", "completion": "selemo (lilemo)"}
+{"prompt": "What is 'yellow' in Sesotho?", "completion": "tšehla (-sehla)"}
+{"prompt": "Translate to Sesotho: yesterday", "completion": "maobane"}
+{"prompt": "How do you say 'yet' in Sesotho with example?", "completion": "e-s'o (Ha ke e-s'o bue. \"I have not yet spoken.\")"}
+{"prompt": "What is 'you' (singular) in Sesotho?", "completion": "uena"}
+{"prompt": "Translate to Sesotho: you all", "completion": "lona"}
+{"prompt": "How do you say 'your' (singular) in Sesotho?", "completion": "hao"}
+{"prompt": "What is 'your' (plural) in Sesotho?", "completion": "lona"}
