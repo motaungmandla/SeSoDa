@@ -1,11 +1,11 @@
 {"prompt": "Abuti e mong le e mong",
-  "completion": "Every dog",
+  "completion": "Every brother",
   "category": "quantifier",
   "meta": {
-    "noun_class": "9 (ntja)",
+    "noun_class": "9 (abuti)",
     "pronoun": "e",
     "quantifier_pattern": "e mong le e mong",
-    "example_sentence": "Abuti e mong le e mong o tla ja (Every dog will eat)"
+    "example_sentence": "Abuti e mong le e mong o tla ja (Every brother will eat)"
   }
 }
 {
