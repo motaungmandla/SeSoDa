@@ -1,3 +1,16 @@
+{"prompt": "Translate to Sesotho: this (NC7)", "completion": "tsena"}  
+{"prompt": "How do you say 'this' for noun class 8 in Sesotho?", "completion": "tsena"}  
+{"prompt": "What is 'this' for noun class 9 in Sesotho?", "completion": "ena"}  
+{"prompt": "Translate to Sesotho: this (NC10)", "completion": "tsena"}  
+{"prompt": "How do you say 'these' for noun classes 1,2 in Sesotho?", "completion": "bana, bano"}  
+{"prompt": "What is 'these' for noun class 3 in Sesotho?", "completion": "ena, eeno"}  
+{"prompt": "Translate to Sesotho: these (NC4)", "completion": "lena, leno"}  
+{"prompt": "How do you say 'these' for noun class 5 in Sesotho?", "completion": "sena, seno"}  
+{"prompt": "What is 'these' for noun class 6 in Sesotho?", "completion": "bana, bono"}  
+{"prompt": "Translate to Sesotho: these (NC7)", "completion": "tsena, tseno"}  
+{"prompt": "How do you say 'these' for noun class 8 in Sesotho?", "completion": "tsena, tseno"}  
+{"prompt": "What is 'these' for noun class 9 in Sesotho?", "completion": "tsena, tseno"}  
+{"prompt": "Translate to Sesotho: these (NC10)", "completion": "tsena, tseno"}  
 {"prompt": "Abuti e mong le e mong", "completion": "Every brother", "category": "quantifier", "meta": {"noun_class": "9 (abuti)", "pronoun": "e", "quantifier_pattern": "e mong le e mong", "example_sentence": "Abuti e mong le e mong o tla ja (Every brother will eat)"}}
 {"prompt": "Khoho e ‘ngoe le e ‘ngoe", "completion": "Every chicken", "category": "quantifier", "meta": {"noun_class": "9 (ntja)", "pronoun": "e", "quantifier_pattern": "e ‘ngoe le e ‘ngoe", "example_sentence": "Likho khoho tse ling tsa fumana, empa ke batla khoho e ‘ngoe le e ‘ngoe (Other chickens arrived, but I want every chicken)"}}
 {"prompt": "Lehe le leng le le leng", "completion": "Every bridge", "category": "quantifier", "meta": {"noun_class": "5 (le-)", "pronoun": "le", "quantifier_pattern": "le leng le le leng", "example_sentence": "Mahe a mang a hlahile, empa ke bona lehe le leng le le leng (Other bridges appeared, but I see every bridge)"}}
@@ -1304,7 +1317,6 @@
 {"prompt":"Sesotho: boholo\nEnglish:", "completion":"1: at the most\n2: bigness\n3: oldness"}
 {"prompt":"Sesotho: boikarabelo (maikarabelo)\nEnglish:", "completion":"responsibility"}
 {"prompt":"Sesotho: boima\nEnglish:", "completion":"1: heavy\n2: heaviness"}
-
 {"prompt": "Translate to Sesotho: to marry (for men)", "completion": "ho nyala (etse) (Ke nyetse. \"I'm married.\")"}
 {"prompt": "Translate to English: ho nyala (etse)", "completion": "to marry (for men)"}
 {"prompt": "Translate to Sesotho: match", "completion": "mollo (mello)"}
@@ -1419,7 +1431,6 @@
 {"prompt": "Translate to English: ho ntlafala (etse)", "completion": "to become nice"}
 {"prompt": "Translate to Sesotho: niece", "completion": "mochana (bachana) e motšehali"}
 {"prompt": "Translate to English: mochana (bachana) e motšehali", "completion": "niece"}
-
 {"prompt": "Translate to Sesotho: night", "completion": "bosiu (masiu)"}
 {"prompt": "Translate to English: bosiu (masiu)", "completion": "night"}
 {"prompt": "Translate to Sesotho: nine", "completion": "robong"}
@@ -1532,7 +1543,6 @@
 {"prompt": "Translate to English: ho lema (me)", "completion": "to plant"}
 {"prompt": "Translate to Sesotho: plate", "completion": "poleiti (lipoleiti)"}
 {"prompt": "Translate to English: poleiti (lipoleiti)", "completion": "plate"}
-
 {"prompt": "Translate to Sesotho: to play", "completion": "ho bapala (ile)"}
 {"prompt": "Translate to English: ho bapala (ile)", "completion": "to play"}
 {"prompt": "Translate to Sesotho: please", "completion": "hle"}
@@ -1633,7 +1643,6 @@
 {"prompt": "Translate to English: molao (melao)", "completion": "rule"}
 {"prompt": "Translate to Sesotho: to run", "completion": "ho matha (ile)"}
 {"prompt": "Translate to English: ho matha (ile)", "completion": "to run"}
-
 {"prompt": "Translate to Sesotho: I've become satisfied.", "completion": "Ke khotsofetse."}
 {"prompt": "What is 'Saturday' in Sesotho?", "completion": "Moqebelo"}
 {"prompt": "How do you say 'to say' in Sesotho?", "completion": "ho re (itse)"}
@@ -1687,7 +1696,6 @@
 {"prompt": "What is 'snake' in Sesotho?", "completion": "noha (linoha)"}
 {"prompt": "Translate to Sesotho: snow with example", "completion": "lehloa (mahloa) (Lehloa lea khetheha. \"It is snowing.\")"}
 {"prompt": "How do you say 'so (as such)' in Sesotho with example?", "completion": "joalo (ho joalo \"it is so\")"}
-
 {"prompt": "Translate to Sesotho: so (well then)", "completion": "joale"}
 {"prompt": "What is 'soft' in Sesotho?", "completion": "bonolo"}
 {"prompt": "How do you say 'soil' in Sesotho?", "completion": "mobu (mebu)"}
@@ -1744,7 +1752,6 @@
 {"prompt": "What is 'that' for noun class 5 in Sesotho?", "completion": "seno(-no), seo"}
 {"prompt": "Translate to Sesotho: that (NC6)", "completion": "bono(-no), boo"}
 {"prompt": "How do you say 'that (over there)' for noun classes 1,2,7 in Sesotho?", "completion": "eane"}
-
 {"prompt": "How do you say 'that (over there)' for noun class 3 in Sesotho?", "completion": "oane"}
 {"prompt": "What is 'that (over there)' for noun class 4 in Sesotho?", "completion": "lane"}
 {"prompt": "Translate to Sesotho: that (over there) (NC5)", "completion": "sane"}
@@ -1801,7 +1808,6 @@
 {"prompt": "Translate to Sesotho: tree", "completion": "sefate (lifate)"}
 {"prompt": "How do you say 'trust' in Sesotho?", "completion": "tšepo"}
 {"prompt": "What is 'to trust' in Sesotho?", "completion": "ho tšepa (ile)"}
-
 {"prompt": "How do you say 'to be trustworthy' in Sesotho?", "completion": "ho tšepahala (etse)"}
 {"prompt": "Translate to Sesotho: truth with example", "completion": "'nete (linnete) (ka 'nete \"truthfully\")"}
 {"prompt": "What is 'to try' in Sesotho?", "completion": "ho leka (ile)"}
@@ -1847,7 +1853,6 @@
 {"prompt": "Translate to Sesotho: to wear (dress, pants, shirt) with example", "completion": "ho apara (ere) (Ke apere hempe. \"I'm wearing a shirt.\")"}
 {"prompt": "How do you say 'to wear (shoes, hat, glasses)' in Sesotho with example?", "completion": "ho roala (etse) (Ke roetse katiba. \"I'm wearing a hat.\")"}
 {"prompt": "What is 'Wednesday' in Sesotho?", "completion": "Laboraro"}
-
 {"prompt": "How do you say 'What?' in Sesotho with grammatical note?", "completion": "Eng? ('ng, if preceded by -e, -a. e.g. ke eng = ke'ng?) (eng kapa eng \"whatever\")"}
 {"prompt": "Translate to Sesotho: wheelbarrow", "completion": "kiribaea (likiribaea)"}
 {"prompt": "What is 'When?' in Sesotho with example?", "completion": "Neng? (neng kapa neng \"whenever\")"}
@@ -1885,6 +1890,18 @@
 {"prompt": "Translate to Sesotho: you all", "completion": "lona"}
 {"prompt": "How do you say 'your' (singular) in Sesotho?", "completion": "hao"}
 {"prompt": "What is 'your' (plural) in Sesotho?", "completion": "lona"}
+{"prompt": "Translate to Sesotho: 'This child (NC1) is playing.'", "completion": "Ngoana enoa o a bapala."}  
+{"prompt": "How do you say 'That book (NC9) is heavy.' in Sesotho?", "completion": "Buka eo e boima."}  
+{"prompt": "Translate to Sesotho: 'These flowers (NC10) are beautiful.'", "completion": "Metsi tsena e metle."}  
+{"prompt": "What is 'Those mountains (NC6) are far.' in Sesotho?", "completion": "Lithaba tsono li hole."}  
+{"prompt": "Translate to Sesotho: 'Lerato (Love, NC1) is coming today.'", "completion": "Lerato o tla kajeno."}  
+{"prompt": "How do you say 'Thabo (Joy, NC1) is my friend.'?", "completion": "Thabo ke motsoalle oa ka."}  
+{"prompt": "Translate to Sesotho: 'Pula (Rain, NC9) is falling hard.'", "completion": "Pula e na ka mali."}  
+{"prompt": "What is 'Khotso (Peace, NC9) is important.' in Sesotho?", "completion": "Khotso e bohlokoa."}  
+{"prompt": "Translate to Sesotho: 'This cow (NC9) is giving milk.'", "completion": "Khomo ena e ntsha lebese."}  
+{"prompt": "How do you say 'That tree (NC3) is tall.'?", "completion": "Sefate seo se telele."}  
+{"prompt": "Translate to Sesotho: 'These houses (NC10) are new.'", "completion": "Matlo ana a masha."}  
+{"prompt": "What is 'Those rivers (NC4) are full.' in Sesotho?", "completion": "Linoka tseo li tletseng."}  
 {"text": "What is Serenade.ai?", "label": "Serenade.ai is a multilingual chatbot developed by MotaungInc, designed to assist users in both Sesotho and English, just like a virtual assistant."}
 {"text": "Who created Serenade.ai?", "label": "Serenade.ai was created by MotaungInc, a tech startup based in Lesotho."}
 {"text": "Is Serenade.ai available in Sesotho?", "label": "Yes! Serenade.ai is a bilingual chatbot that understands and responds in both Sesotho and English."}
@@ -1907,61 +1924,43 @@
 {"text": "How do I contact MotaungInc for partnerships?", "label": "For partnership inquiries, visit https://motaunginc.vercel.app or reach out via the contact details provided there."}
 {"text": "Serenade.ai ke eng?", "label": "Serenade.ai ke chatbot e sebetsang ka dipuo tse peli (Sesotho le Senyesemane) e entsoeng ke MotaungInc, e thusang basebelisi ka lits'ebetso tsa AI."}
 {"text": "Yooh, what's this Serenade.ai thing?", "label": "Oh, it's this dope Sesotho-English AI chatbot made by MotaungInc. Think of it like a virtual assistant that gets our language!"}
-
 {"text": "Mang ea hlotseng Serenade.ai?", "label": "Serenade.ai e entsoe ke MotaungInc, startup ea theknoloji e tsoang Lesotho."}
 {"text": "Wait, who made Serenade.ai?", "label": "Yo, it's built by MotaungInc—a tech startup right here in Lesotho!"}
-
 {"text": "Na Serenade.ai e sebetsa ka Sesotho?", "label": "Ee! Serenade.ai e utloisisa le ho araba ka Sesotho le Senyesemane."}
 {"text": "Wait, does it even understand Sesotho?", "label": "For real! It speaks Sesotho AND English, like a true Mosotho assistant."}
-
 {"text": "Nka sebedisa Serenade.ai joang?", "label": "O ka buisana le Serenade.ai ka mantsoe kapa mangolo, ka Sesotho kapa Senyesemane."}
 {"text": "How do I even use this thing?", "label": "Just talk or type to it in Sesotho or English—easy peasy!"}
-
 {"text": "Ke eng e etsang Serenade.ai e ikhethang?", "label": "Serenade.ai e ikhethile hobane e utloisisa puo ea rona ea Sesotho, hammoho le Senyesemane."}
 {"text": "Okay but... why should I care?", "label": "Bro, it’s the FIRST AI that really gets Sesotho. That’s a big deal!"}
-
 {"text": "Na e ka sebetsa joalo ka Siri?", "label": "Ee! Serenade.ai ke mohlanka wa virtual o tšoanang le Siri, empa o bua Sesotho!"}
 {"text": "So... is it like Siri but for us?", "label": "Yeah, like Siri’s cool cousin who actually speaks our language!"}
-
 {"text": "Nka ithuta haholoanyane ka MotaungInc hokae?", "label": "Etela https://motaunginc.vercel.app ho tseba haholoanyane ka MotaungInc le mesebetsi ea yona."}
 {"text": "Yo, where’s MotaungInc’s website?", "label": "Check out https://motaunginc.vercel.app—it’s got all the deets!"}
-
 {"text": "Na Serenade.ai e sebelisoa mahala?", "label": "Ha e so lokolloa, empa o ka ts'oara litaba ho MotaungInc bakeng sa lintlha."}
 {"text": "Is it free or nah?", "label": "Still in beta, but follow MotaungInc for updates. Might be free, who knows?"}
-
 {"text": "Na e ka mamela litaelo ka mantswe?", "label": "Ee! O ka bua le Serenade.ai ka mantswe kapa ho e ngola."}
 {"text": "Can I just talk to it?", "label": "Yep! Talk or text—it’s all good."}
-
 {"text": "Ke hobane'ng ha Serenade.ai e entsoe?", "label": "E entsoe ho fa basebelisi mohlanka wa AI ea utloisisang Sesotho le mekhoa ea rona."}
 {"text": "Why’d y’all even make this?", "label": "Cause we need tech that gets us! No more ‘Siri-only’ nonsense."}
-
 {"text": "Nka leka Serenade.ai hokae?", "label": "Lebeletse litaba ho MotaungInc—e tla tsoela pele ho lekisoa haufinyane!"}
 {"text": "Where can I test it?", "label": "Coming soon! Stay tuned on MotaungInc’s site."}
-
 {"text": "Lipuo life Serenade.ai li li utloisisa?", "label": "E sebetsa ka Sesotho le Senyesemane feela hajoale."}
 {"text": "What languages does it know?", "label": "Right now? Just Sesotho and English. But hey, that’s lit!"}
-
 {"text": "Na e bulehileng bakeng sa ho e sebelisa?", "label": "Ha e so bulehoe, empa MotaungInc e ka nahana ka ho e lokolla nakong e tlang."}
 {"text": "Is it open for anyone to use?", "label": "Nah, not yet. But hit up MotaungInc if you’re curious!"}
-
 {"text": "Na e ka thusa ka litaba tsa Lesotho?", "label": "Ee! Serenade.ai e entsoe ho araba lipotso tse amanang le Lesotho."}
 {"text": "Can it tell me stuff about Lesotho?", "label": "Yeah! Ask about local news, places, or culture—it’s got you."}
-
 {"text": "Pono ea Serenade.ai ke eng?", "label": "Ho etsa hore AI e sebetse bakeng sa batho ba puo ea Sesotho, re le mong."}
 {"text": "What’s the big dream for this bot?", "label": "To make tech actually work for US—no more language barriers!"}
-
 {"text": "Na e tla fumaneha lifonong?", "label": "Ee, MotaungInc e sebetsa ho e kenya lifonong e le mohlanka oa voice."}
 {"text": "Will it be on phones?", "label": "Yep! Planning a mobile app soon-ish."}
-
 {"text": "Na Serenade.ai boloka lebitso la ka le sireletsehileng?", "label": "Ee, e boloka lebitso la hau le litaba tseo u li buang le eona ka sekrete."}
 {"text": "Yo, is my data safe?", "label": "Yeah, it’s private—no shady business here."}
-
 {"text": "Na likhoebo li ka e kenya mesebetsing ea tsona?", "label": "MotaungInc e ntse e nahana ka ho e lumella likhoebo ho e sebelisa nakong e tlang."}
 {"text": "Can businesses use this too?", "label": "Maybe later! MotaungInc might open it up for companies."}
-
 {"text": "Ho tla etsahala'ng ka Serenade.ai?", "label": "MotaungInc e ntse e e ntlafatsa ho etsa hore e sebetse hantle le ho eona."}
 {"text": "What’s next for it?", "label": "More features, better voice tech—sky’s the limit!"}
-
 {"text": "Nka ikopanya joang le MotaungInc?", "label": "Etela https://motaunginc.vercel.app kapa u ba romelle lengolo-tsoibila."}
 {"text": "How do I hit up MotaungInc?", "label": "Slide into their DMs via https://motaunginc.vercel.app!"}
-
+{"prompt": "Translate to Sesotho: 'This gift (NC5) from Thabo (Joy) is special.'", "completion": "Sephoho sena sa Thabo se khethehileng."}  
+{"prompt": "Translate to Sesotho: 'That storm (NC9) named Marumo (Lightning) was fierce.'", "completion": "Ledimo leo le bitsoang Marumo le ne le le bohale."}  
