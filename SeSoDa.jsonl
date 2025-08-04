@@ -127,7 +127,7 @@
 {"prompt": "buka (libuka)", "completion": "book", "category": "noun", "meta": {"plural": "libuka", "locative": "bukeng", "possessive": "buka ya ka (my book)", "ipa": "/bʊ.kɑ/", "ipa_plural": "/li.bʊ.kɑ/"}}
 {"prompt": "pampiri (lipampiri)", "completion": "paper", "category": "noun", "meta": {"plural": "lipampiri", "locative": "pampiring", "possessive": "pampiri ya ka (my paper)", "ipa": "/pɑm.pʼi.ɾi/", "ipa_plural": "/li.pɑm.pʼi.ɾi/"}}
 {"prompt": "selemo se tlang next year", "completion": "year that comes", "category": "relative_clause_application", "meta": {"grammar_pattern": "selemo + se + tla → se tlang", "example_sentence": "Selemo se tlang se monate (Next year will be good)", "ipa": "/sɛ.lɛ.mɔ sɛ t͡lɑ ŋɡwe/"}}
-{"prompt": "khoeli e fetlileng last month", "completion": "month that passed", "category": "relative_clause_application", "meta": {"grammar_pattern": "khoeli + e + fetlile → e fetlileng", "example_sentence": "Khoeli e fetlileng e molemo (Last month was good)", "ipa": "/xʷɛ.lɛ ɪ fɛ.tlilɛŋ/"}}
+{"prompt": "khoeli e fetileng ", "completion": "month that passed", "category": "relative_clause_application", "meta": {"grammar_pattern": "khoeli + e + fetlile → e fetlileng", "example_sentence": "Khoeli e fetlileng e molemo (Last month was good)", "ipa": "/xʷɛ.lɛ ɪ fɛ.tlilɛŋ/"}}
 {"prompt": "letsatsi le hlahlamang le tlang the day after next", "completion": "the day that follows", "category": "relative_clause_application", "meta": {"grammar_pattern": "le + hlahlama → le hlahlamang", "example_sentence": "Letatsi le hlahlamang le monate (The day after tomorrow is fine)", "ipa": "/lɛ.t͡sʼɑ.tsi lɛ hlahlɑ.mɑŋ lɛ t͡lɑ ŋɡwe/"}}
 {"prompt": "lilemo tse tšeletšeng six years", "completion": "years that passed", "category": "relative_clause_application", "meta": {"grammar_pattern": "tšeletša → tšeletšeng", "example_sentence": "Lilemo tse tšeletšeng li thuse (Six years helped)", "ipa": "/li.lɛ.mɔ tse t͡sʼɛ.lɛ.t͡sʼɛŋ/"}}
 {"prompt": "batho ba supileng seven people", "completion": "people that came", "category": "relative_clause_application", "meta": {"grammar_pattern": "supa → supileng", "example_sentence": "Batho ba supileng ba mobe (Seven people came were ugly)", "ipa": "/bɑ.tʰɔ bɑ su.pi.lɛŋ/"}}
@@ -1964,3 +1964,4 @@
 
 {"text": "Nka ikopanya joang le MotaungInc?", "label": "Etela https://motaunginc.vercel.app kapa u ba romelle lengolo-tsoibila."}
 {"text": "How do I hit up MotaungInc?", "label": "Slide into their DMs via https://motaunginc.vercel.app!"}
+
